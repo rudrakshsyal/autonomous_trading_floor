@@ -1,0 +1,90 @@
+- generic [active] [ref=f6e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f6e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f6e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f6e8]:
+    - search [ref=f6e9]:
+      - generic [ref=f6e11]:
+        - link "Go to Google Home" [ref=f6e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQPHoECAYQBA
+        - generic [ref=f6e22]:
+          - combobox "Search" [ref=f6e24]: site:google.com/maps Bay Area spa sauna ratings site:google.com/maps Bay Area spa sauna ratings
+          - generic [ref=f6e25]:
+            - button "Clear" [ref=f6e29] [cursor=pointer]
+            - generic [ref=f6e34]:
+              - button "Search by voice" [ref=f6e37] [cursor=pointer]
+              - button "Search by image" [ref=f6e42] [cursor=pointer]
+    - generic [ref=f6e45]:
+      - button "Settings" [ref=f6e47] [cursor=pointer]
+      - button "Share" [ref=f6e52] [cursor=pointer]
+      - generic [ref=f6e58]:
+        - button "Google apps" [ref=f6e60] [cursor=pointer]
+        - link "Sign in" [ref=f6e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsite%253Agoogle.com%252Fmaps%2BBay%2BArea%2Bspa%2Bsauna%2Bratings&ec=futura_srp_og_si_72236_p
+  - generic [ref=f6e67]:
+    - navigation [ref=f6e73]:
+      - generic [ref=f6e79]:
+        - list [ref=f6e80]:
+          - listitem [ref=f6e81]:
+            - link "AI Mode" [ref=f6e84] [cursor=pointer]:
+              - /url: /search?q=site:google.com/maps+Bay+Area+spa+sauna+ratings&sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&udm=50&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQ2J8OegQIEBAD
+          - listitem [ref=f6e88]:
+            - link "All" [disabled] [ref=f6e89]
+          - listitem [ref=f6e92]:
+            - link "Images" [ref=f6e93] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&q=site:google.com/maps+Bay+Area+spa+sauna+ratings&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQtKgLegQIEhAB
+          - listitem [ref=f6e96]:
+            - link "Shopping" [ref=f6e97] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&udm=28&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&q=site:google.com/maps+Bay+Area+spa+sauna+ratings&ved=1t:220175&ictx=111
+          - listitem [ref=f6e100]:
+            - link "Forums" [ref=f6e101] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&udm=forums&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&q=site:google.com/maps+Bay+Area+spa+sauna+ratings&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQs6gLegQIFBAB
+          - listitem [ref=f6e104]:
+            - link "News" [ref=f6e105] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&q=site:google.com/maps+Bay+Area+spa+sauna+ratings&tbm=nws&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQ0pQJegQIFRAB
+          - listitem [ref=f6e108]:
+            - link "Short videos" [ref=f6e109] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDiiqi1_rutFT1kCszgbrMObIV-FKw:1794513151568&udm=short_vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdbYfq_upmJPcFgYr-v9gSQjcZBsmu4ump7MWcIsrJnN-pUYJVCrNtHKZQLSQjZHKS7-EI9ljtEzb7NnT-NziBOvtkPBI7yCWt3BGoKX2fwhQMlvTPbkKyGJFFU169skNVXHjmiYE4zT_acl006NFSdaEDrjpUb6jpPUj2VkZ9jobZ4NDw&q=site:google.com/maps+Bay+Area+spa+sauna+ratings&sa=X&ved=2ahUKEwiumsa3moOYAxU4JUQIHWj9PEkQs6gLegQIExAB
+          - listitem [ref=f6e112]:
+            - button [ref=f6e113] [cursor=pointer]:
+              - generic "More filters" [ref=f6e114]: More
+        - button "Tools" [ref=f6e121] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f6e128]
+    - main [ref=f6e134]:
+      - generic [ref=f6e135]:
+        - generic [ref=f6e137]:
+          - generic [ref=f6e139]:
+            - heading [level=3] [ref=f6e140]:
+              - text: Your search -
+              - emphasis [ref=f6e142]: site:google.com/maps Bay Area spa sauna ratings
+              - text: "- did not match any documents."
+            - paragraph [ref=f6e143]: "Suggestions:"
+            - list [ref=f6e144]:
+              - listitem [ref=f6e145]: Make sure all words are spelled correctly.
+              - listitem [ref=f6e146]: Try different keywords.
+              - listitem [ref=f6e147]: Try more general keywords.
+              - listitem [ref=f6e148]: Try fewer keywords.
+            - img "An image of a yeti fishing for something in the ice" [ref=f6e152]
+          - navigation
+        - navigation
+    - contentinfo [ref=f6e239]:
+      - heading "Footer Links" [level=1] [ref=f6e240]
+      - generic [ref=f6e244]:
+        - generic [ref=f6e248]:
+          - button "95110, San Jose, CA - From your IP address" [ref=f6e250] [cursor=pointer]:
+            - generic [ref=f6e251]: 95110, San Jose, CA
+            - generic [ref=f6e253]:
+              - text: "-"
+              - generic [ref=f6e254]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f6e256] [cursor=pointer]
+        - generic [ref=f6e259]:
+          - link "Help" [ref=f6e260] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - button "Send feedback" [ref=f6e262] [cursor=pointer]
+          - link "Privacy" [ref=f6e264] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f6e265] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

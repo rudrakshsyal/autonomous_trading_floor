@@ -1,0 +1,806 @@
+- generic [active] [ref=f2e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f2e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f2e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f2e8]:
+    - search [ref=f2e9]:
+      - generic [ref=f2e11]:
+        - link "Go to Google Home" [ref=f2e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQPHoECAYQBA
+        - generic [ref=f2e22]:
+          - combobox "Search" [ref=f2e24]: Bay Area sauna spa relaxing places Bay Area sauna spa relaxing places
+          - generic [ref=f2e25]:
+            - button "Clear" [ref=f2e29] [cursor=pointer]
+            - generic [ref=f2e34]:
+              - button "Search by voice" [ref=f2e37] [cursor=pointer]
+              - button "Search by image" [ref=f2e42] [cursor=pointer]
+    - generic [ref=f2e45]:
+      - button "Settings" [ref=f2e47] [cursor=pointer]
+      - button "Share" [ref=f2e52] [cursor=pointer]
+      - generic [ref=f2e58]:
+        - button "Google apps" [ref=f2e60] [cursor=pointer]
+        - link "Sign in" [ref=f2e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DBay%2BArea%2Bsauna%2Bspa%2Brelaxing%2Bplaces%26sei%3D8Bj2avL_C6O5kPIP14zjoQQ&ec=futura_srp_og_si_72236_p
+  - generic [ref=f2e67]:
+    - navigation [ref=f2e73]:
+      - generic [ref=f2e79]:
+        - list [ref=f2e80]:
+          - listitem [ref=f2e81]:
+            - link "AI Mode" [ref=f2e84] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=50&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ2J8OegQIFBAD
+          - listitem [ref=f2e88]:
+            - link "All" [disabled] [ref=f2e89]
+          - listitem [ref=f2e92]:
+            - link "Images" [ref=f2e93] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&q=Bay+Area+sauna+spa+relaxing+places&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQtKgLegQIGhAB
+          - listitem [ref=f2e96]:
+            - link "Short videos" [ref=f2e97] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=short_vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&q=Bay+Area+sauna+spa+relaxing+places&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQs6gLegQIGRAB
+          - listitem [ref=f2e100]:
+            - link "Maps" [ref=f2e101] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=294514daef385b90&output=search&q=Bay+Area+sauna+spa+relaxing+places&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&entry=mc&ved=1t:200715&ictx=111
+          - listitem [ref=f2e104]:
+            - link "Videos" [ref=f2e105] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&q=Bay+Area+sauna+spa+relaxing+places&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQtKgLegQIHBAB
+          - listitem [ref=f2e108]:
+            - link "Forums" [ref=f2e109] [cursor=pointer]:
+              - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=forums&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVV3xLDZ0MDF3xjYYYn11fZzFwPejYpY4KlMjIaETJgJ3S2ZqKh9rp9IEvBWdcSGm6tGViK6e8RFMQ5zSknM3gbXrrG5v_alY-8c5xytGH4Z8pMSpGRx5gl1FMK9xBu94tllrIRhQTyZDfFSNGZw-P1d_BEj5KjwzZSu8RznmfNEF6FPsJg&q=Bay+Area+sauna+spa+relaxing+places&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQs6gLegQIGxAB
+          - listitem [ref=f2e112]:
+            - button [ref=f2e113] [cursor=pointer]:
+              - generic "More filters" [ref=f2e114]: More
+        - button "Tools" [ref=f2e121] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f2e128]
+    - main [ref=f2e134]:
+      - generic [ref=f2e135]:
+        - generic [ref=f2e142]:
+          - heading "San Francisco Bay Area, CA" [level=2] [ref=f2e143]
+          - generic [ref=f2e152]:
+            - text: ∙
+            - button "Choose area" [ref=f2e153] [cursor=pointer]
+          - button "How location is used" [ref=f2e156] [cursor=pointer]
+        - generic [ref=f2e174]:
+          - generic [ref=f2e192]:
+            - heading [level=2] [ref=f2e198]:
+              - strong [ref=f2e199]: AI Overview
+            - generic [ref=f2e204]:
+              - generic [ref=f2e205]:
+                - button [ref=f2e208]:
+                  - img "Saunas are suddenly everywhere in the Bay Area. Here are the ..." [ref=f2e209]
+                - text: The Bay Area offers a wide selection of relaxing sauna and spa destinations, ranging from
+                - mark [ref=f2e210]: private hot tub suites to traditional Korean and Russian bathhouses
+                - text: .
+              - heading "Private & Boutique Sanctuaries (Peninsula & South Bay)" [level=3] [ref=f2e211]
+              - list [ref=f2e215]:
+                - listitem [ref=f2e216]:
+                  - generic [ref=f2e217]:
+                    - button "Watercourse Way Bath House Spa" [ref=f2e218] [cursor=pointer]:
+                      - generic [ref=f2e227]:
+                        - generic [ref=f2e228]: Watercourse Way Bath House Spa
+                        - generic [ref=f2e229]:
+                          - generic [ref=f2e233]:
+                            - generic [aria-hidden] [ref=f2e234]: "4.7"
+                            - generic [aria-hidden] [ref=f2e236]: (1.4K)
+                          - generic [ref=f2e238]: Day spa
+                          - generic [ref=f2e240]:
+                            - generic [ref=f2e241]: Open
+                            - text: ·University South
+                    - generic [aria-hidden] [ref=f2e243]:
+                      - list [ref=f2e244]:
+                        - listitem [ref=f2e245]:
+                          - button [ref=f2e254] [cursor=pointer]:
+                            - generic [ref=f2e260]: Call
+                        - listitem [ref=f2e261]:
+                          - link [ref=f2e269] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//165+Channing+Ave,+Palo+Alto,+CA+94301/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808fbb3b4e0038a1:0x4ef623347e3b59e3?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e270]:
+                              - generic [ref=f2e276]: Directions
+                        - listitem [ref=f2e277]:
+                          - link [ref=f2e285] [cursor=pointer]:
+                            - /url: /goto?url=CAESWwHEIkXXFQlcfQCLEWGY_yFRSHk6m_YFHU67IlbvRus4K_v4bmvzRK8c-VGNR_xoyKTmmfF8-qkeVfJ_vHhL7kGFEtpZ3ogrGF8JxGs2K4cNeqhlVugcDYogbs0
+                            - button [aria-hidden] [ref=f2e286]:
+                              - generic [ref=f2e292]: Website
+                      - text: Features individually themed private rooms with hot tubs, steam or dry saunas, and cold plunges. No shared locker rooms or communal crowds.
+                      - button [ref=f2e297] [cursor=pointer]
+                - listitem [aria-hidden] [ref=f2e302]:
+                  - separator [ref=f2e303]
+                  - generic [ref=f2e304]:
+                    - button [ref=f2e305] [cursor=pointer]:
+                      - generic [ref=f2e314]:
+                        - generic [ref=f2e315]: Bay Spa
+                        - generic [ref=f2e316]:
+                          - generic [ref=f2e320]:
+                            - generic [aria-hidden] [ref=f2e321]: "4.2"
+                            - generic [aria-hidden] [ref=f2e323]: (529)
+                          - generic [ref=f2e324]: Spa
+                          - generic [ref=f2e327]:
+                            - generic [ref=f2e328]: Open
+                            - text: ·Santa Clara, CA
+                    - generic [ref=f2e330]:
+                      - list [ref=f2e331]:
+                        - listitem [ref=f2e332]:
+                          - button [ref=f2e341] [cursor=pointer]:
+                            - generic [ref=f2e347]: Call
+                        - listitem [ref=f2e348]:
+                          - link [ref=f2e356] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//2908+El+Camino+Real+%23160,+Santa+Clara,+CA+95051/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808fcb565d88f03b:0xaa5886efda886f05?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e357]:
+                              - generic [ref=f2e363]: Directions
+                        - listitem [ref=f2e364]:
+                          - link [ref=f2e372] [cursor=pointer]:
+                            - /url: /goto?url=CAESVQHEIkXXXcCpGolqMm89MZu6ztnjqp9iGxV1_gNaQOTDpo1itCnv9MOeQZklkj5Ju8_HF_w7BmJOeRmB22gRABvJZ-4sJ-oSgP40CmI9KlWj7lB3mbM
+                            - button [aria-hidden] [ref=f2e373]:
+                              - generic [ref=f2e379]: Website
+                      - text: A traditional Korean-style spa (
+                      - emphasis [ref=f2e380]: jjim-jil-bang
+                      - text: ) offering multiple specialty sauna rooms (salt, jade, ice, and clay), hot tubs, and communal relaxation areas.
+                      - generic [ref=f2e384]:
+                        - link [ref=f2e385] [cursor=pointer]:
+                          - /url: /goto?url=CAESYgHEIkXXNzdEM-Kygf6KSqPwFmVLmUtbq8P-EpvTnN19xKWTn9bvjwOicir1D-p8G6wDM3Ic0ap9EB5G6VjtAqqK7JuTdMDGn-x0TIEmEqmiq3gMFQU09-Ua3Ze28zIwHzhE
+                        - button [ref=f2e386] [cursor=pointer]:
+                          - generic [ref=f2e387]: Bay Spa
+                - listitem [aria-hidden] [ref=f2e394]:
+                  - separator [ref=f2e395]
+                  - generic [ref=f2e396]:
+                    - button [ref=f2e397] [cursor=pointer]:
+                      - generic [ref=f2e406]:
+                        - generic [ref=f2e407]: SoliVana Wellness
+                        - generic [ref=f2e408]:
+                          - generic [ref=f2e412]:
+                            - generic [aria-hidden] [ref=f2e413]: "4.8"
+                            - generic [aria-hidden] [ref=f2e415]: (310)
+                          - generic [ref=f2e416]: Wellness center
+                          - generic [ref=f2e419]:
+                            - generic [ref=f2e420]: Open
+                            - text: ·Redwood City, CA
+                    - generic [ref=f2e422]:
+                      - list [ref=f2e423]:
+                        - listitem [ref=f2e424]:
+                          - button [ref=f2e433] [cursor=pointer]:
+                            - generic [ref=f2e439]: Call
+                        - listitem [ref=f2e440]:
+                          - link [ref=f2e448] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//1922+El+Camino+Real,+Redwood+City,+CA+94063/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808fa3b40e330bc1:0x84e1e3b691f67504?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e449]:
+                              - generic [ref=f2e455]: Directions
+                        - listitem [ref=f2e456]:
+                          - link [ref=f2e464] [cursor=pointer]:
+                            - /url: /goto?url=CAESUgHEIkXXSQJ1ejIxvXZoo88At3reyB_N3LKW9spGPNmtNWmPbZwhPvVsZcqNSNMk7NZuleBXZyAPXO97szcvVM_1_ffDbnB5AcRILcUsI27gjbo
+                            - button [aria-hidden] [ref=f2e465]:
+                              - generic [ref=f2e471]: Website
+                      - text: Women-owned day spa featuring an infrared sauna "Fire and Ice" experience, red light therapy, and salt rooms.
+                      - generic [ref=f2e475]:
+                        - link [ref=f2e476] [cursor=pointer]:
+                          - /url: /goto?url=CAESjAEBxCJF12bL-AjcrE5lbBcJI_TfANB0YDo3Av6APoej9tEByIergeq3Vb-U4pozp549Wr0eXrCvoFPJD4yKAIr73W4PjUeCDKBurqAwdt2Tc1LDDh4TycojSsvVDSXowMiyXxOfwV2V7mp8HXbf_hWwwWR7YFPBCuqT4ho1W3h4SD8kZlI5TesMky1t7A
+                        - button [ref=f2e477] [cursor=pointer]:
+                          - generic [ref=f2e478]: Yelp
+                - listitem [aria-hidden] [ref=f2e485]:
+                  - separator [ref=f2e486]
+                  - generic [ref=f2e487]:
+                    - button [ref=f2e488] [cursor=pointer]:
+                      - generic [ref=f2e497]:
+                        - generic [ref=f2e498]: Burke Williams Day Spa
+                        - generic [ref=f2e499]:
+                          - generic [ref=f2e503]:
+                            - generic [aria-hidden] [ref=f2e504]: "4.4"
+                            - generic [aria-hidden] [ref=f2e506]: (427)
+                          - generic [ref=f2e507]: Day spa
+                          - generic [ref=f2e510]:
+                            - generic [ref=f2e511]: Open
+                            - text: ·Valley Fair
+                    - generic [ref=f2e513]:
+                      - list [ref=f2e514]:
+                        - listitem [ref=f2e515]:
+                          - button [ref=f2e524] [cursor=pointer]:
+                            - generic [ref=f2e530]: Call
+                        - listitem [ref=f2e531]:
+                          - link [ref=f2e539] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//355+Santana+Row+Ste+2010,+San+Jose,+CA+95128/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808fcadfeee8d093:0x6da55cc1e55a2752?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e540]:
+                              - generic [ref=f2e546]: Directions
+                        - listitem [ref=f2e547]:
+                          - link [ref=f2e555] [cursor=pointer]:
+                            - /url: /goto?url=CAESWwHEIkXXcfTNjfHK0BeK0DOOrtDg3d7pEml27ZaYRqJ7dqZF0XEaES0R_mbx0f-lRJzY11P_dDy3TvkpTgVO_KHzwZv9p09Z-3B-W4X-RlyLPLTasU98JdMKctI
+                            - button [aria-hidden] [ref=f2e556]:
+                              - generic [ref=f2e562]: Website
+                      - text: A classic luxury day spa equipped with a sauna, steam room, hot tub, and full massage services.
+                      - button [ref=f2e567] [cursor=pointer]
+              - heading [level=3] [ref=f2e573]: San Francisco & East Bay Bathhouses
+              - list [ref=f2e577]:
+                - listitem [ref=f2e578]:
+                  - generic [ref=f2e579]:
+                    - button [ref=f2e580] [cursor=pointer]:
+                      - generic [ref=f2e589]:
+                        - generic [ref=f2e590]: Kabuki Springs & Spa
+                        - generic [ref=f2e591]:
+                          - generic [ref=f2e595]:
+                            - generic [aria-hidden] [ref=f2e596]: "4.6"
+                            - generic [aria-hidden] [ref=f2e598]: (868)
+                          - generic [ref=f2e599]: Spa
+                          - generic [ref=f2e602]:
+                            - generic [ref=f2e603]: Open
+                            - text: ·San Francisco, CA
+                    - generic [ref=f2e605]:
+                      - list [ref=f2e606]:
+                        - listitem [ref=f2e607]:
+                          - button [ref=f2e616] [cursor=pointer]:
+                            - generic [ref=f2e622]: Call
+                        - listitem [ref=f2e623]:
+                          - link [ref=f2e631] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//1750+Geary+Blvd,+San+Francisco,+CA+94115/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808580b90470551b:0xe906e0566decb32f?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e632]:
+                              - generic [ref=f2e638]: Directions
+                        - listitem [ref=f2e639]:
+                          - link [ref=f2e647] [cursor=pointer]:
+                            - /url: /goto?url=CAESWgHEIkXX-FZZUfR20swfmVR4a13c55EzJN_-zva6Y-hHe0_OHHsskbdMbbBanb21bm_9yqagPwE12ubWeqTAJpSvnx2bfSnk0xfm2amAFEAKHS0g8VZBioRngw
+                            - button [aria-hidden] [ref=f2e648]:
+                              - generic [ref=f2e654]: Website
+                      - text: A serene Japanese-inspired communal bathhouse featuring large hot tubs, cold plunges, and a dry sauna.
+                      - generic [ref=f2e658]:
+                        - link [ref=f2e659] [cursor=pointer]:
+                          - /url: /goto?url=CAESbgHEIkXX7uWQXQdYkV2WEpVGn7lhMbG_Yjukc_H8UpK4Yk6bmmvd06mRhnA-5K8Trt6nnYvXOCEj49x_c5dn2AhZQo-_09KLoC9_I0p5AQ-is9KPEMN_WGvyy2y-Ib-Xwq42UMmwD7Vmo_sF5aQ1
+                        - button [ref=f2e660] [cursor=pointer]:
+                          - generic [ref=f2e662]:
+                            - generic [ref=f2e663]: Instagram
+                            - generic [ref=f2e664]: ·Ally Chen • San Francisco Style & Travel
+                            - generic [ref=f2e665]: "+20"
+                - listitem [ref=f2e670]:
+                  - separator [ref=f2e671]
+                  - generic [ref=f2e672]:
+                    - button [ref=f2e673] [cursor=pointer]:
+                      - generic [ref=f2e682]:
+                        - generic [ref=f2e683]: Archimedes Banya
+                        - generic [ref=f2e684]:
+                          - generic [ref=f2e688]:
+                            - generic [aria-hidden] [ref=f2e689]: "4.1"
+                            - generic [aria-hidden] [ref=f2e691]: (523)
+                          - generic [ref=f2e692]: Sauna
+                          - generic [ref=f2e695]:
+                            - generic [ref=f2e696]: Closed
+                            - text: ·San Francisco, CA
+                    - generic [ref=f2e698]:
+                      - list [ref=f2e699]:
+                        - listitem [ref=f2e700]:
+                          - button [ref=f2e709] [cursor=pointer]:
+                            - generic [ref=f2e715]: Call
+                        - listitem [ref=f2e716]:
+                          - link [ref=f2e724] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//748+Innes+Ave,+San+Francisco,+CA+94124/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808f7f69f39bc0b7:0x87813c37cf522568?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e725]:
+                              - generic [ref=f2e731]: Directions
+                        - listitem [ref=f2e732]:
+                          - link [ref=f2e740] [cursor=pointer]:
+                            - /url: /goto?url=CAESUAHEIkXXwyebDW1EnfJyZMfm_iTFQbwoqoJosz51TOPoVJi95Vwbh1V32XVQZ3NLcnB-Ep2_IO505m3RB0tR_96NhbGYVHzFeEYsiQaGvLx5
+                            - button [aria-hidden] [ref=f2e741]:
+                              - generic [ref=f2e747]: Website
+                      - text: A Russian-style bathhouse on the shores of the SF Bay with multi-level saunas, a cold plunge, and rooftop views.
+                      - button [ref=f2e752] [cursor=pointer]
+                - listitem [ref=f2e757]:
+                  - separator [ref=f2e758]
+                  - generic [ref=f2e759]:
+                    - button [ref=f2e760] [cursor=pointer]:
+                      - generic [ref=f2e769]:
+                        - generic [ref=f2e770]: Albany Sauna, Massage Therapy, Facials & Hot Tubs
+                        - generic [ref=f2e771]:
+                          - generic [ref=f2e775]:
+                            - generic [aria-hidden] [ref=f2e776]: "4.6"
+                            - generic [aria-hidden] [ref=f2e778]: (206)
+                          - generic [ref=f2e779]: Massage spa
+                          - generic [ref=f2e782]:
+                            - generic [ref=f2e783]: Open
+                            - text: ·Albany, CA
+                    - generic [ref=f2e785]:
+                      - list [ref=f2e786]:
+                        - listitem [ref=f2e787]:
+                          - button [ref=f2e796] [cursor=pointer]:
+                            - generic [ref=f2e802]: Call
+                        - listitem [ref=f2e803]:
+                          - link [ref=f2e811] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//1002+Solano+Ave,+Albany,+CA+94706/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8085792e09471fed:0x9a182e348132a525?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e812]:
+                              - generic [ref=f2e818]: Directions
+                        - listitem [ref=f2e819]:
+                          - link [ref=f2e827] [cursor=pointer]:
+                            - /url: /goto?url=CAESVAHEIkXXRRt3AxTmx61K8GaXTmtghKTobKte5N3MjHdfiOlcdGDHIaL0k1Q3jOiVL1tvS0231gaXMHa9Sbvj5OqQYOWhoXFxk3rfp3EJo7w2tL25XQ
+                            - button [aria-hidden] [ref=f2e828]:
+                              - generic [ref=f2e834]: Website
+                      - text: A long-running East Bay staple operating since 1934 with authentic Finnish saunas and private outdoor hot tubs.
+                      - button [ref=f2e839] [cursor=pointer]
+                - listitem [ref=f2e844]:
+                  - separator [ref=f2e845]
+                  - generic [ref=f2e846]:
+                    - button [ref=f2e847] [cursor=pointer]:
+                      - generic [ref=f2e856]:
+                        - generic [ref=f2e857]: Piedmont Springs
+                        - generic [ref=f2e858]:
+                          - generic [ref=f2e862]:
+                            - generic [aria-hidden] [ref=f2e863]: "4.5"
+                            - generic [aria-hidden] [ref=f2e865]: (649)
+                          - generic [ref=f2e866]: Day spa
+                          - generic [ref=f2e869]:
+                            - generic [ref=f2e870]: Open
+                            - text: ·Oakland, CA
+                    - generic [ref=f2e872]:
+                      - list [ref=f2e873]:
+                        - listitem [ref=f2e874]:
+                          - button [ref=f2e883] [cursor=pointer]:
+                            - generic [ref=f2e889]: Call
+                        - listitem [ref=f2e890]:
+                          - link [ref=f2e898] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//3939+Piedmont+Ave,+Oakland,+CA+94611/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80857df77fed55f1:0x649f25620a714635?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e899]:
+                              - generic [ref=f2e905]: Directions
+                        - listitem [ref=f2e906]:
+                          - link [ref=f2e914] [cursor=pointer]:
+                            - /url: /goto?url=CAESXAHEIkXXTotdoR5UC56opyQt7JZw7xj_Xmm7umuB33--jQ7ycnX6BSzT2Ek9-FXLOECPK42hQKkSuZm17ZoOlNx0tF77QeaRW5bfelamhMoLrJwKPk_BMHQCsISM
+                            - button [aria-hidden] [ref=f2e915]:
+                              - generic [ref=f2e921]: Website
+                      - text: Known for private outdoor hot tubs and a relaxing sauna combination.
+                      - button [ref=f2e926] [cursor=pointer]
+              - heading [level=3] [ref=f2e932]: Nature & Resort Escapes
+              - list [ref=f2e936]:
+                - listitem [ref=f2e937]:
+                  - generic [ref=f2e938]:
+                    - button [ref=f2e939] [cursor=pointer]:
+                      - generic [ref=f2e948]:
+                        - generic [ref=f2e949]: Healing Arts Center & Spa at Cavallo Point
+                        - generic [ref=f2e950]:
+                          - generic [ref=f2e954]:
+                            - generic [aria-hidden] [ref=f2e955]: "4.2"
+                            - generic [aria-hidden] [ref=f2e957]: (145)
+                          - generic [ref=f2e958]: Day spa
+                          - generic [ref=f2e961]:
+                            - generic [ref=f2e962]: Open
+                            - text: ·Sausalito, CA
+                    - generic [ref=f2e964]:
+                      - list [ref=f2e965]:
+                        - listitem [ref=f2e966]:
+                          - button [ref=f2e975] [cursor=pointer]:
+                            - generic [ref=f2e981]: Call
+                        - listitem [ref=f2e982]:
+                          - link [ref=f2e990] [cursor=pointer]:
+                            - /url: https://www.google.com/maps/dir//601+Murray+Cir,+Sausalito,+CA+94965/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8085842507628dbf:0x1f42de0fb7ae3272?entry=s&ved=1t:269504&ictx=111
+                            - button [aria-hidden] [ref=f2e991]:
+                              - generic [ref=f2e997]: Directions
+                        - listitem [ref=f2e998]:
+                          - link [ref=f2e1006] [cursor=pointer]:
+                            - /url: /goto?url=CAESlwEBxCJF1-LlrsK14m4aNGjL7HpiHPPSsh0cRLHW9xiaMj5ZnmATyPn8eJQ4c_ydUDU2COVCQQSzCb-xPLE649StJf90qa_j668HMowrekKoeshOH6HJUlE5TuHWCZgUyRy3hlbENjeLB1zyLhb9wy4f8JllT9jVNsdgMS0bCVFr6S_1qthLb8_Ejp_Ema1M4qgoi-C3gDLl
+                            - button [aria-hidden] [ref=f2e1007]:
+                              - generic [ref=f2e1013]: Website
+                      - text: Nestled near the Golden Gate Bridge with meditation pools, infrared saunas, and Zen gardens.
+                - listitem [ref=f2e1014]:
+                  - separator [ref=f2e1015]
+                  - generic [ref=f2e1016]:
+                    - button [ref=f2e1017] [cursor=pointer]:
+                      - generic [ref=f2e1026]:
+                        - generic [ref=f2e1027]: Refuge
+                        - generic [ref=f2e1028]:
+                          - generic [ref=f2e1032]:
+                            - generic [aria-hidden] [ref=f2e1033]: "4.5"
+                            - generic [aria-hidden] [ref=f2e1035]: (1.3K)
+                          - generic [ref=f2e1036]: Spa
+                          - generic [ref=f2e1038]: Carmel, CA
+                    - generic [ref=f2e1040]:
+                      - list [ref=f2e1041]:
+                        - listitem [ref=f2e1042]:
+                          - button [ref=f2e1051] [cursor=pointer]:
+                            - generic [ref=f2e1057]: Call
+                        - listitem [ref=f2e1058]:
+                          - link [ref=f2e1066] [cursor=pointer]:
+                            - /url: /goto?url=CAESUwHEIkXXPNr9vItBAhAD4Wtix8Zd3ASbkChwSsqFCG5gtBATkLIGM52qb3gISlxgW2LxB_7IkDm7T7Pu0hf1UeuQ9QDqOnI8HxpvqsJM4j52Nik0
+                            - button [aria-hidden] [ref=f2e1067]:
+                              - generic [ref=f2e1073]: Website
+                      - text: Frequently highlighted by users on
+                      - link [ref=f2e1076] [cursor=pointer]:
+                        - /url: /goto?url=CAESoAEBxCJF18Cwcbn_mS2HhFGYzdZ6HyvzucN4Aq-PY7LvN0fexd_0k74Mzz3dLXVTMVbLyrAimEDTfp1az4MT8yM0T5w9JED6HOlyxdk46oYFSqIdn5iQIFRaKS-9NvBqnmfmDSAYkTrzy53cjRsNH6KNyW9FR_NNF32qujM8dfAbMknfYitze1-pi7iyy3UvfKTtMcjwv9kCxTdvowpnxwbl
+                        - text: Reddit
+                      - text: as a consensus favorite outdoor sanctuary featuring extensive hot/cold thermal pools and a massive sauna.
+                      - generic [ref=f2e1080]:
+                        - link [ref=f2e1081] [cursor=pointer]:
+                          - /url: /goto?url=CAESoAEBxCJF18Cwcbn_mS2HhFGYzdZ6HyvzucN4Aq-PY7LvN0fexd_0k74Mzz3dLXVTMVbLyrAimEDTfp1az4MT8yM0T5w9JED6HOlyxdk46oYFSqIdn5iQIFRaKS-9NvBqnmfmDSAYkTrzy53cjRsNH6KNyW9FR_NNF32qujM8dfAbMknfYitze1-pi7iyy3UvfKTtMcjwv9kCxTdvowpnxwbl
+                        - button [ref=f2e1082] [cursor=pointer]:
+                          - generic [ref=f2e1084]:
+                            - generic [ref=f2e1085]: Reddit
+                            - generic [ref=f2e1086]: ·r/bayarea
+                            - generic [ref=f2e1087]: "+2"
+              - generic [ref=f2e1093]:
+                - generic [ref=f2e1094]: "If you'd like to narrow this down, tell me:"
+                - list [ref=f2e1095]:
+                  - listitem [ref=f2e1096]:
+                    - generic [ref=f2e1097]:
+                      - text: What
+                      - strong [ref=f2e1098]: geographic area
+                      - text: (South Bay, Peninsula, San Francisco, East Bay, or North Bay) are you targeting?
+                  - listitem [ref=f2e1099]:
+                    - generic [ref=f2e1100]:
+                      - text: Do you prefer a
+                      - strong [ref=f2e1101]: private room/suite
+                      - text: or a
+                      - strong [ref=f2e1102]: communal bathhouse/sauna
+                      - text: experience?
+            - generic [ref=f2e1108]:
+              - generic [ref=f2e1111]:
+                - text: AI responses may include mistakes.
+                - link [ref=f2e1112] [cursor=pointer]:
+                  - /url: https://support.google.com/websearch?p=ai_overviews
+                  - text: Learn more
+              - generic [ref=f2e1113]:
+                - generic [ref=f2e1114]:
+                  - status [ref=f2e1115]
+                  - button [ref=f2e1117] [cursor=pointer]
+                - button [ref=f2e1128] [cursor=pointer]
+                - generic [ref=f2e1134]:
+                  - button [ref=f2e1136] [cursor=pointer]
+                  - button [ref=f2e1141] [cursor=pointer]
+                - button [ref=f2e1148] [cursor=pointer]
+          - button "Show more AI Overview" [ref=f2e1159]:
+            - generic [ref=f2e1160] [cursor=pointer]: Show more
+      - generic [ref=f2e1167]:
+        - generic [ref=f2e1171]:
+          - generic [ref=f2e1174]:
+            - heading "Web results" [level=2] [ref=f2e1175]
+            - generic [ref=f2e1176]:
+              - generic [ref=f2e1179]:
+                - link "Favorite Spa/Sauna+Pool experience in the bay area? Reddit · r/bayarea 90+ comments · 2 years ago" [ref=f2e1181] [cursor=pointer]:
+                  - /url: /goto?url=CAESoAEBxCJF19k32HGbXlRtZ896STRfjsb8gAkm5Zs3a0jTiwzsOfG-COfZbMNoqfnK2G5fHJ9ullg1YIaJcLl86JT3eP6KLA12xUdjmpMqbEe2PQyGEdgJwN4fy3aBh5xBqqzO-_dTdIMLUnrjm-omfno4J8VElAjn6837WpNZPYmPaupqllLLTjaxlO6WQ2l8e-3KwK5t5WsNzpfOxMopLl9W&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - heading "Favorite Spa/Sauna+Pool experience in the bay area?" [level=3] [ref=f2e1182]
+                  - generic [ref=f2e1188]:
+                    - generic [ref=f2e1189]: Reddit · r/bayarea
+                    - generic [ref=f2e1191]: 90+ comments · 2 years ago
+                - button "About this result" [ref=f2e1197] [cursor=pointer]
+              - generic [ref=f2e1202]: Looking to take a day off, any recommendations for sauna, massage, or pools within 2 hours of SF are appreciated!
+              - generic [ref=f2e1208]:
+                - link "90 answers" [ref=f2e1209] [cursor=pointer]:
+                  - /url: /goto?url=CAESqAEBxCJF15qgi4Zu5_RrLXcrWAxt6mX6mBHDNHvK0xbniHz-JWnz8KwbUZh4Bm9bLYmFadYUyXxg9eUreGZmjFm7Kdvgve5CbeJ9JaQmqWwFOI-qXSotRJHy1FwFgmnGS_zT6kt6iFXnBPRnTdTBR6wXZZOQ5y3jg-ouohxAblHiV6_zB1moeC3efOa-BsXGkEGmnOT-egSCZtYoXD2lJxqf2-RzFHRra4Y&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - generic [ref=f2e1210]: ·
+                - generic [ref=f2e1211]: "Top answer:"
+                - generic [ref=f2e1212]: If you're willing to go to Carmel, Refuge is a great option
+              - generic [ref=f2e1215]:
+                - generic [ref=f2e1216]:
+                  - link [ref=f2e1219] [cursor=pointer]:
+                    - /url: /goto?url=CAESigEBxCJF19fohCDeqOdJ3wUQDnQkH2PULhA4pig5RgisLAkyq8Iz0S2Uim_Yf-tM9cWgnIbKLA5Kp7SjJwMQGE7XQ0cjTLMyLa4131GMS71JiU2r_iSIvx_1s_NbVqNpyPNGIB5LTEEfMqS72kLHklMScH3wTXum0xYf80GBDhcdGYJWhWRa2E-cSVU&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                    - generic [ref=f2e1220]:
+                      - text: "Good spas to spend the day : r/"
+                      - emphasis [ref=f2e1221]: bayarea
+                  - generic [ref=f2e1222]: 109 answers
+                  - generic [ref=f2e1224]: Oct 9, 2023
+                - generic [ref=f2e1226]:
+                  - link [ref=f2e1229] [cursor=pointer]:
+                    - /url: /goto?url=CAESngEBxCJF1zRTzWHq28zMS7GmYJMxT7C03B0_ZyvtCZoW94_Mkbx3D_gbl2iT7i2eviNLE0nWIqVBdIHT7g0MIW1NtP-tafhtAN_ChDhzJBYPX06o00tWeJDXNOD9PUWbfP1sR_bip-6c1l9aFnOy9o6FvUXq075tsPX3ATucN6prwHe3q_lB05yZ5QnYn1Yx_YgILmvplItTFgGYasA6iQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                    - generic [ref=f2e1230]:
+                      - emphasis [ref=f2e1231]: Saunas
+                      - text: are suddenly everywhere in the
+                      - emphasis [ref=f2e1232]: Bay Area
+                      - text: ...
+                  - generic [ref=f2e1233]: 84 answers
+                  - generic [ref=f2e1235]: Jun 26, 2025
+                - link "More results from www.reddit.com" [ref=f2e1240] [cursor=pointer]:
+                  - /url: /search?q=Bay+Area+sauna+spa+relaxing+places+site:www.reddit.com&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQrQIoAnoECCAQAw
+          - generic [ref=f2e1244]:
+            - heading "Local Results" [level=2] [ref=f2e1245]
+            - generic [ref=f2e1246]:
+              - heading "Businesses" [level=2] [ref=f2e1250]
+              - generic [ref=f2e1251]:
+                - heading "Map" [level=3] [ref=f2e1252]
+                - link "Map" [ref=f2e1255] [cursor=pointer]:
+                  - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=local&lsack=8Bj2apPFFezGkPIPzeya0QI&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQtgN6BAgoEAM
+              - generic [ref=f2e1258]:
+                - generic [ref=f2e1261]:
+                  - button "Albany Sauna, Massage Therapy, Facials & Hot Tubs Rated 4.6 out of 5, 206 user reviews · Massage spa 90+ years in business · Albany, CA Open · Closes 9 PM · (510) 525-6262 \"Loved my private hot tub room and private steam sauna room.\"" [ref=f2e1263]:
+                    - generic [ref=f2e1267] [cursor=pointer]:
+                      - heading "Albany Sauna, Massage Therapy, Facials & Hot Tubs" [level=3] [ref=f2e1268]
+                      - generic [ref=f2e1270]:
+                        - img "Rated 4.6 out of 5, 206 user reviews" [ref=f2e1272]: 4.6(206)
+                        - text: · Massage spa
+                      - generic [ref=f2e1276]: 90+ years in business · Albany, CA
+                      - generic [ref=f2e1277]:
+                        - generic [ref=f2e1278]: Open · Closes 9 PM
+                        - text: · (510) 525-6262
+                      - generic [ref=f2e1279]: "\"Loved my private hot tub room and private steam sauna room.\""
+                  - link "Website" [ref=f2e1288] [cursor=pointer]:
+                    - /url: /goto?url=CAESVAHEIkXXE-pbOk7DxBFSJ6b5pYBdXNNQTUHJG8gIGUJUXUw7a1AZLOj4pLKk9cLLVTv5LUUbjs2wnz7AdY03VsRTRTQIxDLHzaZdBPl1j8SOPZDt8g&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - link "Directions" [ref=f2e1296] [cursor=pointer]:
+                    - /url: /maps/dir//Albany+Sauna,+Massage+Therapy,+Facials+%26+Hot+Tubs,+1002+Solano+Ave,+Albany,+CA+94706/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8085792e09471fed:0x9a182e348132a525?sa=X&ved=1t:57443&ictx=111
+                - generic [ref=f2e1307]:
+                  - button "Watercourse Way Bath House Spa Rated 4.7 out of 5, 1.4K user reviews · Day spa 45+ years in business · Palo Alto, CA Open · Closes 11:30 PM · (650) 462-2000 \"Luxurious private rooms with hot tub, cold plunge, and sauna or steam room.\"" [ref=f2e1309]:
+                    - generic [ref=f2e1313] [cursor=pointer]:
+                      - heading "Watercourse Way Bath House Spa" [level=3] [ref=f2e1314]
+                      - generic [ref=f2e1316]:
+                        - img "Rated 4.7 out of 5, 1.4K user reviews" [ref=f2e1318]: 4.7(1.4K)
+                        - text: · Day spa
+                      - generic [ref=f2e1322]: 45+ years in business · Palo Alto, CA
+                      - generic [ref=f2e1323]:
+                        - generic [ref=f2e1324]: Open · Closes 11:30 PM
+                        - text: · (650) 462-2000
+                      - generic [ref=f2e1325]: "\"Luxurious private rooms with hot tub, cold plunge, and sauna or steam room.\""
+                  - link "Website" [ref=f2e1334] [cursor=pointer]:
+                    - /url: /goto?url=CAESWwHEIkXX0as1oD3q9nPoCH8IdKBs1UrMciOnU2ayd9AAEVV4_ofWz3ZINm5jYDG1I45UbTGlcRuS5z-e_z1I9KDMYMqY6PrEEAeLcXjW3Jqv1Hiy-KvONAlQTT8&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - link "Directions" [ref=f2e1342] [cursor=pointer]:
+                    - /url: /maps/dir//Watercourse+Way+Bath+House+Spa,+165+Channing+Ave,+Palo+Alto,+CA+94301/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808fbb3b4e0038a1:0x4ef623347e3b59e3?sa=X&ved=1t:57443&ictx=111
+                - generic [ref=f2e1353]:
+                  - button "Zen Springs - Boutique Bath House Rated 3.6 out of 5, 250 user reviews · Day spa 20+ years in business · Oakland, CA Open · Closes 10:30 PM · (510) 272-9895 \"Clean rooms, clean tubs, fantastic time 100% will be back.\"" [ref=f2e1355]:
+                    - generic [ref=f2e1359] [cursor=pointer]:
+                      - heading "Zen Springs - Boutique Bath House" [level=3] [ref=f2e1360]
+                      - generic [ref=f2e1362]:
+                        - img "Rated 3.6 out of 5, 250 user reviews" [ref=f2e1364]: 3.6(250)
+                        - text: · Day spa
+                      - generic [ref=f2e1368]: 20+ years in business · Oakland, CA
+                      - generic [ref=f2e1369]:
+                        - generic [ref=f2e1370]: Open · Closes 10:30 PM
+                        - text: · (510) 272-9895
+                      - generic [ref=f2e1371]: "\"Clean rooms, clean tubs, fantastic time 100% will be back.\""
+                  - link "Schedule" [ref=f2e1380] [cursor=pointer]:
+                    - /url: /goto?url=CAESiQIBxCJF1-8uiWzvvvCKVvr843HZRpMeo0D5xpPA9sosjg6-9bOQEr63DyFpn2SUzdBQm1rDm7BlmGmbOXuPrefk0jk3ebYamYXRakYfmK50uHK75K9gHx3OtN_VNd29YxFuJSLhYGNzT2N5EiOL2bxYy_E42hUVwtDwQnBuGxH030i5bAXX33xmhPNLfiQafVR7M-2b56OnXw0DmT97bNEAiKvR74ttnfk4TFbubETpq2ytxDgE1Yo369JHL2gZg1TBR-3iUyWyXZXObGSYAxOjfVToqC86X2_vCCqmO22JiW1Y3xAKxAOtQlbpI9vMwryFDFe2sStlPNkJHTs_-qwOuonlFvzWFQdQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - link "Website" [ref=f2e1388] [cursor=pointer]:
+                    - /url: /goto?url=CAESigEBxCJF10g_W0AyaZ8ACC67uvoNtL02Fc3alJcbK245d9pJu272ULams7NHOZkjtlSGuZBKJ_-PijVh18fgpVUR_EYPXfipfI3IJpFbIq91CyhP-3xndxGnKsTPz5eczr3rGkV7SCH5MIovJxhPx71u-P0VWHYMjfM-wLSyoaOVV4JODWUfgf3n2l0&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - link "Directions" [ref=f2e1396] [cursor=pointer]:
+                    - /url: /maps/dir//Zen+Springs+-+Boutique+Bath+House,+1010+Jefferson+St,+Oakland,+CA+94607/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x808f80b09a2d0915:0x16156073a54af2c2?sa=X&ved=1t:57443&ictx=111
+              - heading [level=3] [ref=f2e1407]:
+                - link "More businesses" [ref=f2e1409] [cursor=pointer]:
+                  - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=local&lsack=8Bj2apPFFezGkPIPzeya0QI&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQjGp6BAgnEAE
+                  - separator [aria-hidden] [ref=f2e1410]
+          - generic [ref=f2e1419]:
+            - heading "Web results" [level=2] [ref=f2e1420]
+            - generic [ref=f2e1421]:
+              - generic [ref=f2e1424]:
+                - link "About | Bay Spa Bay Spa https://www.bayspaca.com › about-bayspa" [ref=f2e1426] [cursor=pointer]:
+                  - /url: /goto?url=CAESYgHEIkXXRaCD7orKkG7qICl17R35VCI7C8PpckY2DfnoVNxk6paETYY2lDfoQGDd29T6ksotgUtPLcgq2Ngz9yoCI9DfTEao6lttuK1pglMzGJZbPVGYudfI7Je_GIyorkXA&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - heading "About | Bay Spa" [level=3] [ref=f2e1427]
+                  - generic [ref=f2e1433]:
+                    - generic [ref=f2e1434]: Bay Spa
+                    - generic [ref=f2e1436]: https://www.bayspaca.com › about-bayspa
+                - button "About this result" [ref=f2e1442] [cursor=pointer]
+              - generic [ref=f2e1449]:
+                - emphasis [ref=f2e1450]: Bay Spa is the best Korean style spa &amp; sauna in Santa Clara
+                - text: . 4 customized sauna rooms, acupressure and deep tissue massages, body scrubbing and exfoliation ...
+          - generic [ref=f2e1454]:
+            - generic [ref=f2e1457]:
+              - link "TOP 10 BEST Sauna in San Francisco Bay Area, CA Yelp https://www.yelp.com › search › find_loc=San+Francisc..." [ref=f2e1459] [cursor=pointer]:
+                - /url: /goto?url=CAESjgEBxCJF1yELdfx04-wtiCn8TwOzWjrW5aFtyVvxRVQs26krULZyg7BukMARvC8uuKFf0Y7I0qHk2YuhuZyspTqc2_iHG9z3zl2uzAyUCG75IeUVT_bMIgVyHDzMIS03U2BRSqrJX3JyGuuQema5Q_tFhezn44rInZBtPhhE786Z5UEjpgs4ypB1STgBX0xn&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - heading "TOP 10 BEST Sauna in San Francisco Bay Area, CA" [level=3] [ref=f2e1460]
+                - generic [ref=f2e1466]:
+                  - generic [ref=f2e1467]: Yelp
+                  - generic [ref=f2e1469]: https://www.yelp.com › search › find_loc=San+Francisc...
+              - button "About this result" [ref=f2e1475] [cursor=pointer]
+            - generic [ref=f2e1481]:
+              - generic [ref=f2e1482]:
+                - text: Top 10 Best Sauna Near San Francisco Bay Area, California (Updated 2026) ;
+                - emphasis [ref=f2e1483]: Watercourse Way
+                - text: · (1.9k reviews). Massage Therapy ; Pearl Spa & Sauna · (1.3k reviews).
+              - link "Read more" [ref=f2e1484] [cursor=pointer]:
+                - /url: /goto?url=CAES4gIBxCJF12Jv_Q4HVSVjK71JU7DBElk_MyHlBLrggnvtJtzXtW8MVuHWnFDvIIJKNbvQFRKhusL8qCsiYPGvgohHCA2kbwR-LNI22Cuw27XdtwGXXdANc8x1r6mhN-uuMtFHy-vFtLGAS47rKBCRlOSizAxdmoIrd_AckAYUfFPy4uvwmdTVDs5ThclJz5vUyXrMvlCcjfIhr-XtVTnLYsyg7RBaSouHbVB7wu0wRmbM0ysSH62b0jTtK1Ep3jiXFRbuARD5enR0kgeX-v1i6XNaIyI4UUH12eHdxzgv2uu0e61IWHuICx8lUEw2MF-2yjqkblvIHX2QibRCGU7R5XxidhedSBKvBHbxzrGq3WoXPnoI33aYm3qahoef2Z0_GpU9goyp5qB93mbSdCBSnm9R1V8PGIpdi6ZE5pdVpy_BrhCvLNtI5g1xpkJ-_LPr1JU_2scYGeGaJSiI6VmzNt6Ks58&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+            - img "Rated 4.5 out of 5, (20,216) user reviews" [ref=f2e1489]: 4.5(20,216)
+          - generic [ref=f2e1496]:
+            - generic [ref=f2e1499]:
+              - link "Healing Arts Center & Spa | Bay Area Spa Resort Cavallo Point https://www.cavallopoint.com › spa" [ref=f2e1501] [cursor=pointer]:
+                - /url: /goto?url=CAESXgHEIkXXmvpyv3aT7dJYdNGXhoLQM5JipiFnEtmu_Vq-3ThywBzbS0Avfmyezaeo2m0Daid3V2ZzV8Mvenbf8h3B60Qlb8HYe5il3MBdKrX7IKvb0WuSBIPZykAbLbQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - heading "Healing Arts Center & Spa | Bay Area Spa Resort" [level=3] [ref=f2e1502]
+                - generic [ref=f2e1508]:
+                  - generic [ref=f2e1509]: Cavallo Point
+                  - generic [ref=f2e1511]: https://www.cavallopoint.com › spa
+              - button "About this result" [ref=f2e1517] [cursor=pointer]
+            - generic [ref=f2e1524]:
+              - text: Refresh and renew in our meditation pool, infrared
+              - emphasis [ref=f2e1525]: sauna
+              - text: ", Zen garden,"
+              - emphasis [ref=f2e1526]: relaxation
+              - text: lounge, and outdoor Jacuzzis, showers, and firepits. Reservations 415.339.4767 ...
+          - generic [ref=f2e1531]:
+            - heading "Discussions and forums" [level=2] [ref=f2e1533]
+            - generic [ref=f2e1534]:
+              - generic [ref=f2e1537]:
+                - generic [ref=f2e1539] [cursor=pointer]:
+                  - generic [ref=f2e1542]:
+                    - link "Recommendations for Destination Spas or Bathhouses in the Bay Area Reddit · r/bayarea · 40+ comments · 4 weeks ago" [ref=f2e1543]:
+                      - /url: /goto?url=CAESlwEBxCJF1xw1-_hVwiuQLXFisH1o0wTCVyNle1WOA6Fam19O6sDutc3qQOvFdOArDyinub2LeAIx001_RhQmalvOy17cPdYNE1W40TKzpUErqT0G0RFu-U-tJ2clpIHzh34qjdpWz_f-KDn8rf4N3XD09SZ04ajrpChTzvKudwudcaUofVle_nhOv96T161B7NIefYlB3JJU&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                      - generic [ref=f2e1544]:
+                        - heading [level=3] [ref=f2e1545]:
+                          - link "Recommendations for Destination Spas or Bathhouses in the Bay Area" [ref=f2e1546]
+                        - generic [ref=f2e1553]:
+                          - generic [ref=f2e1554]: Reddit ·
+                          - generic [ref=f2e1556]:
+                            - generic [ref=f2e1557]:
+                              - generic [ref=f2e1558]: r/bayarea
+                              - generic [ref=f2e1559]:
+                                - generic [ref=f2e1560]: ·
+                                - generic [ref=f2e1561]: 40+ comments
+                            - generic [ref=f2e1562]:
+                              - generic [ref=f2e1563]: ·
+                              - generic [ref=f2e1564]: 4 weeks ago
+                    - generic [ref=f2e1570]:
+                      - generic [ref=f2e1573]: ·
+                      - button "About this result" [ref=f2e1581]
+                  - button "Recommendations for Destination Spas or Bathhouses in the Bay Area Reddit · r/bayarea · 40+ comments · 4 weeks ago" [expanded] [ref=f2e1586]
+                - list [ref=f2e1598]:
+                  - listitem [ref=f2e1599]:
+                    - generic [ref=f2e1603]:
+                      - link "Kabuki Springs & Spa in SF · Bay Spa in Santa Clara · Fairmont Sonoma Mission Inn & Spa (check Resortpass for access) ·... More discussions on Recommendations for Destination Spas or Bathhouses in the Bay Area" [ref=f2e1604] [cursor=pointer]:
+                        - /url: /goto?url=CAESlwEBxCJF1xw1-_hVwiuQLXFisH1o0wTCVyNle1WOA6Fam19O6sDutc3qQOvFdOArDyinub2LeAIx001_RhQmalvOy17cPdYNE1W40TKzpUErqT0G0RFu-U-tJ2clpIHzh34qjdpWz_f-KDn8rf4N3XD09SZ04ajrpChTzvKudwudcaUofVle_nhOv96T161B7NIefYlB3JJU&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                      - generic [ref=f2e1606]:
+                        - text: Kabuki Springs & Spa in SF · Bay Spa in Santa Clara · Fairmont Sonoma Mission Inn & Spa (check Resortpass for access) ·...
+                        - link [aria-hidden] [ref=f2e1607] [cursor=pointer]:
+                          - /url: /goto?url=CAESlwEBxCJF1xw1-_hVwiuQLXFisH1o0wTCVyNle1WOA6Fam19O6sDutc3qQOvFdOArDyinub2LeAIx001_RhQmalvOy17cPdYNE1W40TKzpUErqT0G0RFu-U-tJ2clpIHzh34qjdpWz_f-KDn8rf4N3XD09SZ04ajrpChTzvKudwudcaUofVle_nhOv96T161B7NIefYlB3JJU&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                          - generic [ref=f2e1608]: More
+              - generic [ref=f2e1616] [cursor=pointer]:
+                - generic [ref=f2e1619]:
+                  - link "Where are the best spa places around the SF Bay area? Quora · 30+ answers · 4 years ago" [ref=f2e1620]:
+                    - /url: /goto?url=CAEShwEBxCJF1zsjFPIqdVNAmlRglb7UO14wHEBibUL0wVnMHYlG62GM-ILastpxVP2AgdqEJDSKRj1nJpGkeMPr75BTjHFmZIE1Ew27h7ObdycfPTYUTsRoDQsNxC0OKrZ66xwtfxMc4JAps0ya5cuNA0hAHnzuSWaOzd4GSg-Aof5avHUO6Y_bmOQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                    - generic [ref=f2e1621]:
+                      - heading [level=3] [ref=f2e1622]:
+                        - link "Where are the best spa places around the SF Bay area?" [ref=f2e1623]
+                      - generic [ref=f2e1630]:
+                        - generic [ref=f2e1631]: Quora ·
+                        - generic [ref=f2e1634]:
+                          - generic [ref=f2e1635]: 30+ answers
+                          - generic [ref=f2e1636]:
+                            - generic [ref=f2e1637]: ·
+                            - generic [ref=f2e1638]: 4 years ago
+                  - generic [ref=f2e1644]:
+                    - generic [ref=f2e1647]: ·
+                    - button "About this result" [ref=f2e1655]
+                - button "Where are the best spa places around the SF Bay area? Quora · 30+ answers · 4 years ago" [ref=f2e1660]
+              - generic [ref=f2e1669] [cursor=pointer]:
+                - generic [ref=f2e1672]:
+                  - 'link "Bay Area / SF: Best Wellness Hotel for a deep breath? - California Forum Tripadvisor" [ref=f2e1673]':
+                    - /url: /goto?url=CAEStwEBxCJF1ywekNbU-ccn2pPT4HYBTs9QDn0kjKz2MjK3JEJpnZ2KWdeMsk5uJbIJIgNqdHQkLtCX5E3hKg5xMn_0sAy3il5YkYY4GNReCpdOhh2NDnjSuT8d2W4KnvIKBXjkG30TiTBjAwCPmlPqTcD-lv2OItcQas4tYivL-T_XNlgO6iuwv8eVKg8g0w-yUGaEN9HnBzDFVOCwo4dGJk1HDKZORfGbIh2KAswHjPNZIvjjEO4MFfs&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                    - generic [ref=f2e1674]:
+                      - heading [level=3] [ref=f2e1675]:
+                        - 'link "Bay Area / SF: Best Wellness Hotel for a deep breath? - California Forum" [ref=f2e1676]'
+                      - generic [ref=f2e1677]: Tripadvisor
+                  - button "About this result" [ref=f2e1700]
+                - 'button "Bay Area / SF: Best Wellness Hotel for a deep breath? - California Forum Tripadvisor" [ref=f2e1705]'
+              - link "See more discussions" [ref=f2e1711] [cursor=pointer]:
+                - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&udm=forums&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8poLegQIWhAE
+                - separator [aria-hidden] [ref=f2e1712]
+                - generic [ref=f2e1713]: See more
+          - generic [ref=f2e1721]:
+            - heading "Web results" [level=2] [ref=f2e1722]
+            - generic [ref=f2e1723]:
+              - generic [ref=f2e1726]:
+                - link "30+ Spas & Wellness Centers in San Francisco Bay Area Tripadvisor https://www.tripadvisor.com › Attractions-g26820712-..." [ref=f2e1728] [cursor=pointer]:
+                  - /url: /goto?url=CAESpAEBxCJF15NKSHF_jyv_idGYwwRp7EBGyD7_cC4bP8BPbnhfPjiMyxmYutkyz0vaj1hYoUZzTKJGNL48QSpOZuvtzf_p1tpdb91WRCwhH3NaLE20IluFhLv9K8aZaiu38-c1VlUICrx5-UiwMvSetyvHTMyqbs5o5V7jWC4Pb7wsbwZWjOIYcvDbiaPYdZAftKf6NipEyCEvEy16gF81t-vStvB_QQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                  - heading "30+ Spas & Wellness Centers in San Francisco Bay Area" [level=3] [ref=f2e1729]
+                  - generic [ref=f2e1735]:
+                    - generic [ref=f2e1736]: Tripadvisor
+                    - generic [ref=f2e1738]: https://www.tripadvisor.com › Attractions-g26820712-...
+                - button "About this result" [ref=f2e1744] [cursor=pointer]
+              - generic [ref=f2e1750]:
+                - generic [ref=f2e1751]:
+                  - text: 30+ Spas & Wellness Centers in San Francisco Bay Area ·
+                  - emphasis [ref=f2e1752]: 1. Bamford Wellness Spa
+                  - text: · 2. Calistoga Spa Hot Springs · 3. Osmosis Day Spa Sanctuary.
+                - link "Read more" [ref=f2e1753] [cursor=pointer]:
+                  - /url: /goto?url=CAES7gIBxCJF16rLTRtezgQxZIInATu74x3iOjub-RMiBYDh5gridLjI-RPRVC5c4MQkaRQUXCeH3LYwSGuAAjoMlIE9agC2PFh6qt-ORa4PX6ST4hQSh3Mzw4VEqs4lO-ctkBsgfnYe2kRaPcxW_a5iJnaNluwe3eqO6lbxiRjk0d8V9oB2t1e_z3iQn3PXKG-3MTWZzUuUghKO8iZz4nk-GPdEQ7bPIGCEqF_YEAye4jALTuz4yZOFES-atPlFQIbqeCd3xNPVNpneIojy--R4juuw019fd2GHT_AVtMttNJ0nymqQWZ2cOy6M1PMzPkABdCNvM0puSU18ZR9oWDspggPSVJz_yzuB1MlrlBqQIGAMHWBmDeiKsGipkFvVr81FcQZxoIdlUB8NLKuKivsRUeFjQO9DlrcrlptY9fHdESeKGdk1kqPqdeZoj6pTBxaXLYVLzk8dhnoEXAC50Ee5Xhk9E2PdzZZ5QT4YBXWguvM&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+          - generic [ref=f2e1759]:
+            - generic [ref=f2e1762]:
+              - link "Best spas in the Bay Area, too good to gatekeep!! My ... Instagram · fashionbyally 1.6K+ likes · 11 months ago" [ref=f2e1764] [cursor=pointer]:
+                - /url: /goto?url=CAESbgHEIkXXBf358IVME839zP1VRfHBtCYGRvroPjCPz7qPHpBIKwRex_XEmxqjHyfF4mBjCCPe1fG4YNHIsenhhA_lZPYWOAxHCBGyAqFUJF7qfzr6Pak-BUIRZW6YeWSNhTPLpy04xn5ZYpklhzuy&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - heading "Best spas in the Bay Area, too good to gatekeep!! My ..." [level=3] [ref=f2e1765]
+                - generic [ref=f2e1771]:
+                  - generic [ref=f2e1772]: Instagram · fashionbyally
+                  - generic [ref=f2e1774]: 1.6K+ likes · 11 months ago
+              - button "About this result" [ref=f2e1780] [cursor=pointer]
+            - generic [ref=f2e1785]:
+              - link "Best spas in the Bay Area, too good to gatekeep!! My ... by Ally Chen • San Francisco Style & Travel on Instagram. Play on Instagram. 0:34" [ref=f2e1786] [cursor=pointer]:
+                - /url: /goto?url=CAESbgHEIkXXBf358IVME839zP1VRfHBtCYGRvroPjCPz7qPHpBIKwRex_XEmxqjHyfF4mBjCCPe1fG4YNHIsenhhA_lZPYWOAxHCBGyAqFUJF7qfzr6Pak-BUIRZW6YeWSNhTPLpy04xn5ZYpklhzuy&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - generic [ref=f2e1787]: 0:34
+              - generic [ref=f2e1796]: Come for a visit to the Bay Area Brain Spa! ... Here are 5 Bay Area sauna & cold plunge spots worth adding to your self-care list.
+          - generic [ref=f2e1801]:
+            - generic [ref=f2e1804]:
+              - link "Rosewood Sand Hill Spa in Menlo Park | Palo Alto Wellness Rosewood Hotels https://www.rosewoodhotels.com › sand-hill-menlo-park" [ref=f2e1806] [cursor=pointer]:
+                - /url: /goto?url=CAESfAHEIkXXsLLg2FpujR8wZfpZ6rQE-2GvX1QyXma-IhVFwLuwRXYdKnPXcNwCHYg3jTEIMMi9-6lYVdSPG7qbQWIvWVCTGIj8ZJm6rEI860ZoKHGQ0zI98fPLivTCrbJIQi6tw8zrnjvtntIzODHdjOU2CQIqpM83SEt1c-4&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - heading "Rosewood Sand Hill Spa in Menlo Park | Palo Alto Wellness" [level=3] [ref=f2e1807]
+                - generic [ref=f2e1813]:
+                  - generic [ref=f2e1814]: Rosewood Hotels
+                  - generic [ref=f2e1816]: https://www.rosewoodhotels.com › sand-hill-menlo-park
+              - button "About this result" [ref=f2e1822] [cursor=pointer]
+            - generic [ref=f2e1828]:
+              - generic [ref=f2e1829]:
+                - text: At Asaya Spa, guests enjoy the ultimate relaxation with curated treatments ...
+                - emphasis [ref=f2e1830]: Sauna and steam rooms
+                - text: . Pilates and yoga studios; Relaxation and sanctuary ...
+              - link "Read more" [ref=f2e1831] [cursor=pointer]:
+                - /url: /goto?url=CAESlAIBxCJF1zB2PjvbmfBjnhby8JK0o4Qb-Fp6Ewz9rzOA4vFhZMr8rFuHfAARQ0w2KaF2dvX72m4bhW3Vg918j5jOk3h6agoL8_m6cKHqjLqTuOGrPMr5ma99qKhH1YQW75z-zFhbmpL_6SYKJt3HsoLDGrvcVEjNsT9QOwpfIda69Hofvmxvf6x9g_rvDhZMeht25Kvail4_cGIalv--uxL2P61G6yZ8rvJqYch1TDiwe5E3CDH_ibw7NTI2DLaeDKAdsXCaD70jAZk0YrKt6bs_mj58T2jFYaRAdQJXibKdze0lowA47umHwWO9t6yb2-UfzFHUGXZiML1Z8_Okr_gu_ABC3-Khhmy74FlwXP9lZ1BhzQY&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+          - generic [ref=f2e1835]:
+            - generic [ref=f2e1838]:
+              - link "Archimedes Banya - Where the Cultures of the World Meet Archimedes Banya https://banyasf.com" [ref=f2e1840] [cursor=pointer]:
+                - /url: /goto?url=CAESUQHEIkXX80iiC0aoe_lBLEWGyTuHISIvMBzBiOT5qx-XcuysH7iL29F-StK3ehj1CnwIdsE9sRmAIoivgyALrR9QymwyLfIrR2JOI0c788KGfQ&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+                - heading "Archimedes Banya - Where the Cultures of the World Meet" [level=3] [ref=f2e1841]
+                - generic [ref=f2e1847]:
+                  - generic [ref=f2e1848]: Archimedes Banya
+                  - generic [ref=f2e1850]: https://banyasf.com
+              - button "About this result" [ref=f2e1856] [cursor=pointer]
+            - generic [ref=f2e1863]:
+              - emphasis [ref=f2e1864]: Archimedes Banya is a Russian bathhouse on the shores of the San Francisco Bay
+              - text: . It is a place to meet with old friends, make new ones, or have a quiet time just
+            - link [aria-hidden] [ref=f2e1867] [cursor=pointer]:
+              - /url: /goto?url=CAESUQHEIkXX80Ksnqox47j2dftzA1y3bvwn8IsGzwj80NO0PoCC_WSj4DWglb-X94NNJlxVvAFz7T9d8aTWNtZU7pBS_nnH7fZVK55moqbJ5P3zMA&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+            - list [ref=f2e1871]:
+              - listitem [ref=f2e1872]:
+                - link "SPA" [ref=f2e1873] [cursor=pointer]:
+                  - /url: /goto?url=CAESVQHEIkXXi-AbF1GCfP58mY47W9janQZ_u8l4m7J2uFZt2IzksrbaZgQQIewkNtgqT9EunzuRwv9N6roL_Y2i1x5sJD3OCdrSFQUV3SrC-fz0JEXBDqM&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+              - listitem [ref=f2e1876]:
+                - link "Plan Your Trip" [ref=f2e1877] [cursor=pointer]:
+                  - /url: /goto?url=CAESYAHEIkXXr0bTPIV_vpzSrh2rcyEhHTJTmejfUZQKPbvwX5cUQbNX4kEFuwjM76q0qA_qMGqaRPi1HDwc3_H1fVyobB-hoeJ0fvla91MMzczIAp5hd2s8QOjkr7s_fXvRGA&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+              - listitem [ref=f2e1880]:
+                - link "Essentials" [ref=f2e1881] [cursor=pointer]:
+                  - /url: /goto?url=CAESXAHEIkXXJgz0Tx40X9syJKY69Gy7hcXFnR1lfjimkuWPtdxBNNWR1KZpIIVKHF8pVUApYAMqUuoXr6OeuR5AIxzt-5mbKax6stS4QIuzDRs4JULhu_ConMBfAgoA&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+              - listitem [ref=f2e1884]:
+                - link "Signature Services" [ref=f2e1885] [cursor=pointer]:
+                  - /url: /goto?url=CAESWgHEIkXXAyfp456DrjWXppHS2KBUxZjki_WOj-vk-vEM0i8piXnvnxPR96XFtt6CGy7yGhbLXhOOq4YG9leefiJVvbAj15Mq8A_oll_mom4T4iivrTwnLT-4mA&gsessionid=dKzVke0sZZNjw-JFPWFZ0-M75fScA1MNQ3RSJMW4dJm3XoDBIWK3Og
+        - generic [ref=f2e1889]:
+          - generic [ref=f2e1894]:
+            - heading "People also search for" [level=2] [ref=f2e1896]
+            - generic [ref=f2e1898]:
+              - generic [ref=f2e1899]:
+                - link "Bay area sauna spa relaxing places reddit" [ref=f2e1903] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Bay+area+sauna+spa+relaxing+places+reddit&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhAEAE
+                - link "Best bay area sauna spa relaxing places" [ref=f2e1917] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Best+bay+area+sauna+spa+relaxing+places&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhOEAE
+                - link "Bay area sauna spa relaxing places california" [ref=f2e1931] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Bay+area+sauna+spa+relaxing+places+california&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhMEAE
+                - link "Best luxury spa Bay Area" [ref=f2e1945] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Best+luxury+spa+Bay+Area&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhKEAE
+              - generic [ref=f2e1956]:
+                - link "Korean spa Bay Area" [ref=f2e1960] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Korean+spa+Bay+Area&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhHEAE
+                - link "Bay Spa" [ref=f2e1974] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Bay+Spa&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhDEAE
+                - link "Luxury day spa Bay Area" [ref=f2e1988] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Luxury+day+spa+Bay+Area&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhCEAE
+                - link "Bay Area day Spas for Couples" [ref=f2e2002] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&q=Bay+Area+day+Spas+for+Couples&sa=X&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ1QJ6BAhBEAE
+          - navigation [ref=f2e2013]:
+            - heading "Page Navigation" [level=1] [ref=f2e2014]
+            - text: "1"
+            - link "Page 2" [ref=f2e2017] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=10&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAE
+              - text: "2"
+            - link "Page 3" [ref=f2e2019] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=20&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAG
+              - text: "3"
+            - link "Page 4" [ref=f2e2021] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=30&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAI
+              - text: "4"
+            - link "Page 5" [ref=f2e2023] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=40&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAK
+              - text: "5"
+            - link "Page 6" [ref=f2e2025] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=50&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAM
+              - text: "6"
+            - link "Page 7" [ref=f2e2027] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=60&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAO
+              - text: "7"
+            - link "Page 8" [ref=f2e2029] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=70&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAQ
+              - text: "8"
+            - link "Page 9" [ref=f2e2031] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=80&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAS
+              - text: "9"
+            - link "Page 10" [ref=f2e2033] [cursor=pointer]:
+              - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=90&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8tMDegQIYBAU
+              - text: "10"
+            - heading [level=2] [ref=f2e2035]:
+              - link "Next" [ref=f2e2036] [cursor=pointer]:
+                - /url: /search?q=Bay+Area+sauna+spa+relaxing+places&sca_esv=294514daef385b90&sxsrf=AKL5yDhgQ-04UbET7VLnLaKNQsRistuHRQ:1794513136371&ei=8Bj2apPFFezGkPIPzeya0QI&start=10&sa=N&sstk=AYl2yk-Kuu-_qVTZ2TsRycC1K6Si8JO8hG8EIeOwTXK4TIiXvRf8rLOW1u30Sto1kSqm4P-Fu5mpIS3cj8VWJXM8_T8_boGmf9tGLw&ved=2ahUKEwiT_aWwmoOYAxVsI0QIHU22JioQ8NMDegQIYBAW
+        - navigation
+    - contentinfo [ref=f2e2039]:
+      - heading "Footer Links" [level=1] [ref=f2e2040]
+      - generic [ref=f2e2044]:
+        - generic [ref=f2e2048]:
+          - button "95110, San Jose, CA - From your IP address" [ref=f2e2050] [cursor=pointer]:
+            - generic [ref=f2e2051]: 95110, San Jose, CA
+            - generic [ref=f2e2053]:
+              - text: "-"
+              - generic [ref=f2e2054]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f2e2056] [cursor=pointer]
+        - generic [ref=f2e2059]:
+          - link "Help" [ref=f2e2060] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - button "Send feedback" [ref=f2e2062] [cursor=pointer]
+          - link "Privacy" [ref=f2e2064] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f2e2065] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

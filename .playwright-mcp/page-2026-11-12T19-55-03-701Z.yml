@@ -1,0 +1,777 @@
+- generic [active] [ref=f4e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f4e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f4e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f4e8]:
+    - search [ref=f4e9]:
+      - generic [ref=f4e11]:
+        - link "Go to Google Home" [ref=f4e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQPHoECAYQBA
+        - generic [ref=f4e22]:
+          - combobox "Search" [ref=f4e24]: Authentic telangana chicken biryani recipe Authentic telangana chicken biryani recipe
+          - generic [ref=f4e25]:
+            - button "Clear" [ref=f4e29] [cursor=pointer]
+            - generic [ref=f4e34]:
+              - button "Search by voice" [ref=f4e37] [cursor=pointer]
+              - button "Search by image" [ref=f4e42] [cursor=pointer]
+    - generic [ref=f4e45]:
+      - button "Settings" [ref=f4e47] [cursor=pointer]
+      - button "Share" [ref=f4e52] [cursor=pointer]
+      - generic [ref=f4e58]:
+        - button "Google apps" [ref=f4e60] [cursor=pointer]
+        - link "Sign in" [ref=f4e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fsca_esv%3D294514daef385b90%26sxsrf%3DAKL5yDh6wMkybfdkcv-QAeoA5_fxFAzqdg:1794513289432%26q%3DAuthentic%2Btelangana%2Bchicken%2Bbiryani%2Brecipe%26sa%3DX%26ved%3D2ahUKEwix0qT5moOYAxXlDEQIHQHuEO4Q1QJ6BAg8EAE%26biw%3D1200%26bih%3D862%26dpr%3D2&ec=futura_srp_og_si_72236_p
+  - generic [ref=f4e67]:
+    - navigation [ref=f4e73]:
+      - generic [ref=f4e79]:
+        - list [ref=f4e80]:
+          - listitem [ref=f4e81]:
+            - link "AI Mode" [ref=f4e84] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=50&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&vsint=&aep=1&ntc=1&cs=0&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ2J8OegQIFBAD
+          - listitem [ref=f4e88]:
+            - link "All" [disabled] [ref=f4e89]
+          - listitem [ref=f4e92]:
+            - link "Short videos" [ref=f4e93] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=short_vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&q=Authentic+telangana+chicken+biryani+recipe&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQs6gLegQIGxAB
+          - listitem [ref=f4e96]:
+            - link "Videos" [ref=f4e97] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=vids&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&q=Authentic+telangana+chicken+biryani+recipe&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQtKgLegQIGhAB
+          - listitem [ref=f4e100]:
+            - link "Images" [ref=f4e101] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&q=Authentic+telangana+chicken+biryani+recipe&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQtKgLegQIGRAB
+          - listitem [ref=f4e104]:
+            - link "Forums" [ref=f4e105] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=forums&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&q=Authentic+telangana+chicken+biryani+recipe&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQs6gLegQIGBAB
+          - listitem [ref=f4e108]:
+            - link "Shopping" [ref=f4e109] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&udm=28&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_ktMtvkASABQlA7v7lCpSntsDHTMtD4ZMAG1_Fvn9uTk091P1XOpe20IhX4RepcUBwCETeSZWjWxmQwbxqRCap59Dwj2Hv3Q36EDhpOQppAmV9GKQRMZLKqH0KvWiIhOppM_9cb9DC30mNB2lwVVP76X3IfeASJaOeK3WMPr_3C2SYWRNlUqC6RaY1o6KfUz5X1Lb0DQ&q=Authentic+telangana+chicken+biryani+recipe&ved=1t:220175&ictx=111
+          - listitem [ref=f4e112]:
+            - button [ref=f4e113] [cursor=pointer]:
+              - generic "More filters" [ref=f4e114]: More
+        - button "Tools" [ref=f4e121] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f4e128]
+    - main [ref=f4e134]:
+      - generic [ref=f4e135]:
+        - generic [ref=f4e139]:
+          - generic [ref=f4e150]:
+            - generic [ref=f4e168]:
+              - heading [level=2] [ref=f4e174]:
+                - strong [ref=f4e175]: AI Overview
+              - generic [ref=f4e180]:
+                - generic [ref=f4e181]:
+                  - button [ref=f4e184]:
+                    - img "Hyderabadi Chicken Biryani - Swasthi's Recipes" [ref=f4e185]
+                  - generic [ref=f4e186]:
+                    - text: Authentic
+                    - button "Telangana-style (Hyderabadi) chicken dum biryani" [ref=f4e190] [cursor=pointer]
+                    - text: combines
+                  - mark [ref=f4e191]:
+                    - generic [ref=f4e192]: tender bone-in chicken marinated in yogurt and spices with fragrant, half-cooked basmati rice, layered and slow-cooked in a sealed pot
+                  - text: .
+                  - generic [ref=f4e196]:
+                    - link "The Delicious Crescent" [ref=f4e197] [cursor=pointer]:
+                      - /url: /goto?url=CAESggEBxCJF138SVr38un3zpsW-b2_EJ3EYJgj_qUUJ7-WZFzKmk0rYJ4xC33-lLtxO1Ld1EeeKZ3kCYjS7ftyZePXUz3-nec8z-jveBJvl4ozxh7BssRorH-swA6_kEga5org3nxohg3mAeYS_GVIauOkcKebsdfr-nv5_Ufz_lZsdVFpu
+                    - button "The Delicious Crescent - Related results" [ref=f4e198] [cursor=pointer]:
+                      - generic [ref=f4e199]: The Delicious Crescent
+                - heading "Ingredients" [level=3] [ref=f4e206]
+                - list [ref=f4e207]:
+                  - listitem [ref=f4e209]:
+                    - strong [ref=f4e211]: "Chicken Marination:"
+                    - list [ref=f4e212]:
+                      - listitem [ref=f4e213]:
+                        - generic [ref=f4e214]: 1 kg bone-in chicken (medium pieces)
+                      - listitem [aria-hidden] [ref=f4e215]:
+                        - generic [ref=f4e216]: 1 cup thick plain yogurt (curd)
+                      - listitem [aria-hidden] [ref=f4e217]:
+                        - generic [ref=f4e218]: 2 tbsp ginger-garlic paste
+                      - listitem [aria-hidden] [ref=f4e219]:
+                        - generic [ref=f4e220]: 1.5 tsp red chili powder
+                      - listitem [aria-hidden] [ref=f4e221]:
+                        - generic [ref=f4e222]: ½ tsp turmeric powder
+                      - listitem [aria-hidden] [ref=f4e223]:
+                        - generic [ref=f4e224]: 1.5 tsp biryani masala or garam masala
+                      - listitem [aria-hidden] [ref=f4e225]:
+                        - generic [ref=f4e226]: 2–3 green chilies (slit)
+                      - listitem [aria-hidden] [ref=f4e227]:
+                        - generic [ref=f4e228]: ½ cup fresh mint leaves (chopped)
+                      - listitem [aria-hidden] [ref=f4e229]:
+                        - generic [ref=f4e230]: ½ cup fresh coriander (cilantro) leaves (chopped)
+                      - listitem [aria-hidden] [ref=f4e231]:
+                        - generic [ref=f4e232]: 1 tbsp lemon juice
+                      - listitem [aria-hidden] [ref=f4e233]:
+                        - generic [ref=f4e234]:
+                          - text: 3 medium onions (thinly sliced and deep-fried until golden-brown, known as
+                          - emphasis [ref=f4e235]: birista
+                          - text: )
+                      - listitem [aria-hidden] [ref=f4e236]:
+                        - generic [ref=f4e237]: Salt to taste
+                        - generic [ref=f4e241]:
+                          - link [ref=f4e242] [cursor=pointer]:
+                            - /url: /goto?url=CAESfAHEIkXXwROETacWQRfpQyCMICEmeWZQzU8RWKr9q9xbMUUe97PKcrUHlQIsGBT7wW7dpLmss2o78qSDBwnVDOq0iKXWv7pLfQrn3u-kosIaeEHI8Czq8OEw61VYu2XhP48luan3cgMnOmG_q8a2t6AxsaSQ-fIMBNbnr1E
+                          - button [ref=f4e243] [cursor=pointer]:
+                            - generic [ref=f4e245]:
+                              - generic [ref=f4e246]: Swasthi's Recipes
+                              - generic [ref=f4e247]: "+3"
+                  - listitem [ref=f4e253]:
+                    - strong [ref=f4e255]: "Rice Cooking:"
+                    - list [ref=f4e256]:
+                      - listitem [ref=f4e257]:
+                        - generic [ref=f4e258]: 3 to 4 cups aged basmati rice (soaked for 30 minutes)
+                      - listitem [ref=f4e259]:
+                        - generic [ref=f4e260]: "Whole spices: 2–3 bay leaves, 4–5 green cardamoms, 2–3 cloves, 1–2 cinnamon sticks, shahi jeera (caraway seeds)"
+                      - listitem [ref=f4e261]:
+                        - generic [ref=f4e262]: Salt (water should taste well-seasoned like seawater)
+                        - generic [ref=f4e266]:
+                          - link [ref=f4e267] [cursor=pointer]:
+                            - /url: /goto?url=CAESbAHEIkXXSszP7uhqeCqJ4y3_VL5NB72KjwkEA8zFj2XFfsraYeVnEekVEgiTImYJALAA279S7zJDcZ6NtJLKrJm5qLtheGIqhhnjcf5Y-2Krkx-QWyqdUPMElEYXN6Noivy_ZdqzTrgZupmhzQ
+                          - button [ref=f4e268] [cursor=pointer]:
+                            - generic [ref=f4e270]:
+                              - generic [ref=f4e271]: YouTube
+                              - generic [ref=f4e272]: ·Nupur's Indian Kitchen
+                              - generic [ref=f4e273]: "+5"
+                  - listitem [ref=f4e279]:
+                    - strong [ref=f4e281]: "Layering & Finishing:"
+                    - list [ref=f4e282]:
+                      - listitem [ref=f4e283]:
+                        - generic [ref=f4e284]: Saffron strands soaked in ¼ cup warm milk
+                      - listitem [ref=f4e285]:
+                        - generic [ref=f4e286]: 3–4 tbsp ghee (clarified butter)
+                      - listitem [ref=f4e287]:
+                        - generic [ref=f4e288]: Reserved fried onions, mint, and coriander
+                      - listitem [ref=f4e289]:
+                        - generic [ref=f4e290]: Dough (wheat flour and water) or foil to seal the pot
+                        - button [ref=f4e295] [cursor=pointer]
+                - separator [ref=f4e301]
+                - heading [level=3] [ref=f4e303]: Step-by-Step Instructions
+                - list [aria-hidden] [ref=f4e304]:
+                  - listitem [ref=f4e306]:
+                    - strong [ref=f4e308]: "Marinate the Chicken:"
+                    - list [ref=f4e309]:
+                      - listitem [ref=f4e310]:
+                        - generic [ref=f4e311]: In a large bowl, mix the yogurt, ginger-garlic paste, red chili powder, turmeric, biryani masala, green chilies, lemon juice, half of the fried onions, mint, coriander, and salt.
+                      - listitem [ref=f4e312]:
+                        - generic [ref=f4e313]: Add the chicken pieces and coat well. Refrigerate for at least 2 hours or overnight.
+                        - generic [ref=f4e317]:
+                          - link [ref=f4e318] [cursor=pointer]:
+                            - /url: /goto?url=CAESbgHEIkXXeR2tv3eZ9HGqg5OXVLvvqfDMQOI4GAtWQvE3v9GIcShQEQQILZzFc2zVYGOKlR8XLzAQkME9TXl1POscVvAt0MiJXtKbYoltizI85XlfWbFs-aj8QboOyjHUAD74RqYBi2yWGotMSdxJ
+                          - button [ref=f4e319] [cursor=pointer]:
+                            - generic [ref=f4e321]:
+                              - generic [ref=f4e322]: YouTube
+                              - generic [ref=f4e323]: ·SharMissCooking
+                              - generic [ref=f4e324]: "+1"
+                  - listitem [ref=f4e330]:
+                    - strong [ref=f4e332]: "Parboil the Rice:"
+                    - list [ref=f4e333]:
+                      - listitem [ref=f4e334]:
+                        - generic [ref=f4e335]: Bring a large pot of water to a rolling boil with the whole spices and plenty of salt.
+                      - listitem [ref=f4e336]:
+                        - generic [ref=f4e337]: Add the soaked and drained basmati rice. Cook until it is about 70–80% done (the grain should have a slight firm bite in the center), then drain immediately.
+                        - generic [ref=f4e341]:
+                          - link [ref=f4e342] [cursor=pointer]:
+                            - /url: /goto?url=CAESbAHEIkXXSszP7uhqeCqJ4y3_VL5NB72KjwkEA8zFj2XFfsraYeVnEekVEgiTImYJALAA279S7zJDcZ6NtJLKrJm5qLtheGIqhhnjcf5Y-2Krkx-QWyqdUPMElEYXN6Noivy_ZdqzTrgZupmhzQ
+                          - button [ref=f4e343] [cursor=pointer]:
+                            - generic [ref=f4e345]:
+                              - generic [ref=f4e346]: YouTube
+                              - generic [ref=f4e347]: ·Nupur's Indian Kitchen
+                              - generic [ref=f4e348]: "+4"
+                  - listitem [ref=f4e354]:
+                    - strong [ref=f4e356]: "Layer the Biryani (Dum Setup):"
+                    - list [ref=f4e357]:
+                      - listitem [ref=f4e358]:
+                        - generic [ref=f4e359]:
+                          - text: In a heavy-bottomed pot (or traditional
+                          - emphasis [ref=f4e360]: handi
+                          - text: ), spread the marinated chicken evenly across the base.
+                      - listitem [ref=f4e361]:
+                        - generic [ref=f4e362]: Layer the hot, parboiled basmati rice evenly over the chicken.
+                      - listitem [ref=f4e363]:
+                        - generic [ref=f4e364]: Top with the remaining golden fried onions, chopped mint, coriander, saffron milk, and a drizzle of ghee.
+                        - button [ref=f4e369] [cursor=pointer]
+                  - listitem [ref=f4e375]:
+                    - strong [ref=f4e377]: "Dum (Slow Steam Cooking):"
+                    - list [ref=f4e378]:
+                      - listitem [ref=f4e379]:
+                        - generic [ref=f4e380]: Seal the pot tightly with a lid, using a rope of wheat dough around the rim or a double sheet of foil to trap all the steam.
+                      - listitem [ref=f4e381]:
+                        - generic [ref=f4e382]:
+                          - text: Cook on high heat for 5 minutes to build steam, then lower the heat to a minimum (or place the pot on a heavy iron
+                          - emphasis [ref=f4e383]: tawa
+                          - text: / griddle) and cook for 30–40 minutes.
+                        - button [ref=f4e388] [cursor=pointer]
+                  - listitem [ref=f4e394]:
+                    - strong [ref=f4e396]: "Rest and Serve:"
+                    - list [ref=f4e397]:
+                      - listitem [ref=f4e398]:
+                        - generic [ref=f4e399]: Turn off the heat and let the biryani rest undisturbed for 10 minutes before opening the seal.
+                      - listitem [ref=f4e400]:
+                        - generic [ref=f4e401]:
+                          - generic [ref=f4e402]:
+                            - text: Gently fluff and serve hot with cooling
+                            - button [ref=f4e406] [cursor=pointer]: onion-tomato raita
+                            - text: or
+                          - emphasis [ref=f4e407]:
+                            - button [ref=f4e412] [cursor=pointer]: mirchi ka salan
+                          - text: .
+                        - generic [ref=f4e416]:
+                          - link [ref=f4e417] [cursor=pointer]:
+                            - /url: /goto?url=CAESbgHEIkXXeR2tv3eZ9HGqg5OXVLvvqfDMQOI4GAtWQvE3v9GIcShQEQQILZzFc2zVYGOKlR8XLzAQkME9TXl1POscVvAt0MiJXtKbYoltizI85XlfWbFs-aj8QboOyjHUAD74RqYBi2yWGotMSdxJ
+                          - button [ref=f4e418] [cursor=pointer]:
+                            - generic [ref=f4e420]:
+                              - generic [ref=f4e421]: YouTube
+                              - generic [ref=f4e422]: ·SharMissCooking
+                              - generic [ref=f4e423]: "+2"
+                - generic [ref=f4e429]:
+                  - text: You can follow detailed visual techniques on the
+                  - link [ref=f4e432] [cursor=pointer]:
+                    - /url: /goto?url=CAESfAHEIkXXwROETacWQRfpQyCMICEmeWZQzU8RWKr9q9xbMUUe97PKcrUHlQIsGBT7wW7dpLmss2o78qSDBwnVDOq0iKXWv7pLfQrn3u-kosIaeEHI8Czq8OEw61VYu2XhP48luan3cgMnOmG_q8a2t6AxsaSQ-fIMBNbnr1E
+                    - text: Indian Healthy Recipes Biryani Guide
+                  - text: .
+                  - button [ref=f4e437] [cursor=pointer]
+                - generic [ref=f4e443]:
+                  - generic [ref=f4e444]: "Watch this video to see the step-by-step process of preparing and layering a classic Hyderabadi-style chicken dum biryani:"
+                  - generic [ref=f4e447]:
+                    - button [ref=f4e451] [cursor=pointer]:
+                      - generic [ref=f4e452]: 13m
+                    - generic [ref=f4e464]:
+                      - link [ref=f4e465] [cursor=pointer]:
+                        - /url: /goto?url=CAESbgHEIkXXeR2tv3eZ9HGqg5OXVLvvqfDMQOI4GAtWQvE3v9GIcShQEQQILZzFc2zVYGOKlR8XLzAQkME9TXl1POscVvAt0MiJXtKbYoltizI85XlfWbFs-aj8QboOyjHUAD74RqYBi2yWGotMSdxJ
+                      - generic [ref=f4e466]:
+                        - generic [ref=f4e467]: Cook the PERFECT HYDERABADI CHICKEN BIRYANI Recipe
+                        - generic [ref=f4e468]:
+                          - generic [ref=f4e469]:
+                            - generic [ref=f4e470]:
+                              - generic [ref=f4e471]: 22K views
+                              - text: · 2 years ago
+                            - generic [ref=f4e472]: YouTube · SharMissCooking
+                          - button [ref=f4e478] [cursor=pointer]
+                - generic [ref=f4e484]:
+                  - generic [ref=f4e485]: "If you want, tell me:"
+                  - list [ref=f4e486]:
+                    - listitem [ref=f4e487]:
+                      - strong [ref=f4e489]:
+                        - text: Are you making a
+                        - emphasis [ref=f4e490]: Kacchi
+                        - text: (raw meat) or
+                        - emphasis [ref=f4e491]: Pakki
+                        - text: (pre-cooked meat) version?
+                    - listitem [ref=f4e492]:
+                      - generic [ref=f4e493]:
+                        - strong [ref=f4e494]: How many servings
+                        - text: do you need to prepare?
+                - generic [ref=f4e499]:
+                  - list [ref=f4e500]:
+                    - listitem [ref=f4e501]:
+                      - generic [ref=f4e502]:
+                        - link [ref=f4e503] [cursor=pointer]:
+                          - /url: /goto?url=CAESfAHEIkXXwROETacWQRfpQyCMICEmeWZQzU8RWKr9q9xbMUUe97PKcrUHlQIsGBT7wW7dpLmss2o78qSDBwnVDOq0iKXWv7pLfQrn3u-kosIaeEHI8Czq8OEw61VYu2XhP48luan3cgMnOmG_q8a2t6AxsaSQ-fIMBNbnr1E
+                        - generic [ref=f4e504]:
+                          - generic [ref=f4e505]:
+                            - generic [ref=f4e508]: Swasthi's Recipes
+                            - button [ref=f4e512] [cursor=pointer]
+                          - generic [ref=f4e518]:
+                            - generic [aria-hidden] [ref=f4e519]: Hyderabadi Chicken Biryani - Swasthi's Recipes
+                            - generic [ref=f4e520]: February 26, 2022 — 1. To a mixing bowl, add 2/3 cup (165 ml) yogurt, ¾ teaspoon salt, 1 to 1½ teaspoon red chili powder, 1 to 1½ teaspoon biryani mas...
+                    - listitem [ref=f4e523]:
+                      - generic [ref=f4e524]:
+                        - link [ref=f4e525] [cursor=pointer]:
+                          - /url: /goto?url=CAESbAHEIkXXSszP7uhqeCqJ4y3_VL5NB72KjwkEA8zFj2XFfsraYeVnEekVEgiTImYJALAA279S7zJDcZ6NtJLKrJm5qLtheGIqhhnjcf5Y-2Krkx-QWyqdUPMElEYXN6Noivy_ZdqzTrgZupmhzQ
+                        - generic [ref=f4e526]:
+                          - generic [ref=f4e527]:
+                            - generic [ref=f4e533]:
+                              - text: YouTube
+                              - generic [ref=f4e534]: ·Nupur's Indian Kitchen
+                            - button [ref=f4e538] [cursor=pointer]
+                          - generic [ref=f4e543]:
+                            - button [ref=f4e548] [cursor=pointer]:
+                              - generic [ref=f4e549]: 13m
+                            - generic [aria-hidden] [ref=f4e561]: Hyderabadi Chicken Biryani recipe restaurant style/Paradise ...
+                    - listitem [ref=f4e562]:
+                      - generic [ref=f4e563]:
+                        - link [ref=f4e564] [cursor=pointer]:
+                          - /url: /goto?url=CAESggEBxCJF138SVr38un3zpsW-b2_EJ3EYJgj_qUUJ7-WZFzKmk0rYJ4xC33-lLtxO1Ld1EeeKZ3kCYjS7ftyZePXUz3-nec8z-jveBJvl4ozxh7BssRorH-swA6_kEga5org3nxohg3mAeYS_GVIauOkcKebsdfr-nv5_Ufz_lZsdVFpu
+                        - generic [ref=f4e565]:
+                          - generic [ref=f4e566]:
+                            - generic [ref=f4e569]: The Delicious Crescent
+                            - button [ref=f4e573] [cursor=pointer]
+                          - generic [ref=f4e579]:
+                            - generic [aria-hidden] [ref=f4e580]: Easy Hyderabadi Chicken Biryani - The Delicious Crescent
+                            - generic [ref=f4e581]: "November 7, 2024 — Overview: Hyderabadi chicken biryani features bone-in chicken marinated with yogurt, ginger-garlic paste, spices, and fried onions..."
+                    - listitem [ref=f4e584]:
+                      - generic [ref=f4e585]:
+                        - link [ref=f4e586] [cursor=pointer]:
+                          - /url: /goto?url=CAESbgHEIkXXeR2tv3eZ9HGqg5OXVLvvqfDMQOI4GAtWQvE3v9GIcShQEQQILZzFc2zVYGOKlR8XLzAQkME9TXl1POscVvAt0MiJXtKbYoltizI85XlfWbFs-aj8QboOyjHUAD74RqYBi2yWGotMSdxJ
+                        - generic [ref=f4e587]:
+                          - generic [ref=f4e588]:
+                            - generic [ref=f4e594]:
+                              - text: YouTube
+                              - generic [ref=f4e595]: ·SharMissCooking
+                            - button [ref=f4e599] [cursor=pointer]
+                          - generic [ref=f4e604]:
+                            - button [ref=f4e609] [cursor=pointer]:
+                              - generic [ref=f4e610]: 13m
+                            - generic [aria-hidden] [ref=f4e622]: Cook the PERFECT HYDERABADI CHICKEN BIRYANI Recipe
+                    - listitem [ref=f4e623]:
+                      - generic [ref=f4e624]:
+                        - link [ref=f4e625] [cursor=pointer]:
+                          - /url: /goto?url=CAESoQEBxCJF14ag63-ulKI0agMG59LaK8INKNA56iobdH8O9Y2r9uZjgHGWOXa-dh3nZSd9eRb-WhmujoNYQv2aP2NrYZyO-MoH8h4obXZgz0TW2vj10-sksPMelKcJA7lEmYEwtRtJbJoR8CMs71iEXRQvrsGUyv7etQ_R5vu1yKgudqLV-A6fdPjNFXhMyEjhwTqmffnKSYSxfEpvXp66ELLdfQ
+                        - generic [ref=f4e626]:
+                          - generic [ref=f4e627]:
+                            - generic [ref=f4e630]: sbs.com.au
+                            - button [ref=f4e634] [cursor=pointer]
+                          - generic [ref=f4e640]:
+                            - generic [aria-hidden] [ref=f4e641]: Hyderabadi biryani (layered chicken and rice dum biryani)
+                            - generic [ref=f4e642]: A signature dish from the royal kitchens of Hyderabad, this slow-cooked biryani is famous for its layered dum (steam) cooking meth...
+                    - listitem [ref=f4e645]:
+                      - generic [ref=f4e646]:
+                        - link [ref=f4e647] [cursor=pointer]:
+                          - /url: /goto?url=CAESfQHEIkXX4pxtLn6A2HThi7Vo68q1DmibXrNgwXjKCDF_LABoW0GbxVcVMtbKR248NkplV7vKMHleah3pxQvP8zlNHNsKVEOdaJGo7zKpTzkYLwMVWBpjritrCmRDORnDuvIT9MILr63-2pi-egdE6wo4rndapgJsVCIHRJID
+                        - generic [ref=f4e648]:
+                          - generic [ref=f4e649]:
+                            - generic [ref=f4e652]: snazzycuisine.com
+                            - button [ref=f4e656] [cursor=pointer]
+                          - generic [ref=f4e662]:
+                            - generic [aria-hidden] [ref=f4e663]: Hyderabad Chicken Biryani
+                            - generic [ref=f4e664]: Hyderabadi biryani is one of the most popular biryanis made with basmati rice. Making Hyderabadi biryani is not that difficult as ...
+                    - listitem [ref=f4e667]:
+                      - generic [ref=f4e668]:
+                        - link [ref=f4e669] [cursor=pointer]:
+                          - /url: /goto?url=CAESbAHEIkXXD3wHyvPBmWtMP0AzZvd_zYRWt-pyV7Dlju3EZOOIZoBekCJKfBKte9XqRLM8SlmC8dwyngMBigsNIU8XCCYElq879hg7ZasYNngcd0Vz9p8u9vT6EDmhFUg8OYHnNUH5ffhMHJOhYA
+                        - generic [ref=f4e670]:
+                          - generic [ref=f4e671]:
+                            - generic [ref=f4e674]: etato.in
+                            - button [ref=f4e678] [cursor=pointer]
+                          - generic [ref=f4e684]:
+                            - generic [aria-hidden] [ref=f4e685]: Hyderabadi Dum Biryani
+                            - generic [ref=f4e686]: A traditional Telangana Hyderabad region non-vegetarian semi dry dish. The iconic slow-cooked layered biryani sealed with dough, H...
+                    - listitem [ref=f4e689]:
+                      - generic [ref=f4e690]:
+                        - link [ref=f4e691] [cursor=pointer]:
+                          - /url: /goto?url=CAESfwHEIkXXdopU2WrzXzwIHTjoL-iFG3L4AI_l3iaQeQ6H-pvm6pDjUGxqAjttcFqixfYC3u2CbBDjuKMDOArXesoM06P9TZoeCCj15twBx6Itan6L-cexMZtuIvgkDqEcLd0sv6oFFi3Qin_A_GLQw3m9FjKIkhe2HUV6wqiKk0M
+                        - generic [ref=f4e692]:
+                          - generic [ref=f4e693]:
+                            - generic [ref=f4e696]: recipesaresimple.com
+                            - button [ref=f4e700] [cursor=pointer]
+                          - generic [ref=f4e706]:
+                            - generic [aria-hidden] [ref=f4e707]: Hyderabad Chicken Biryani
+                            - generic [ref=f4e708]: Hyderabadi Chicken Biryani is a renowned dish from Hyderabad, India, known for its rich flavors, aromatic spices, and distinct pre...
+                    - listitem [ref=f4e711]:
+                      - generic [ref=f4e712]:
+                        - link [ref=f4e713] [cursor=pointer]:
+                          - /url: /goto?url=CAESZQHEIkXXBmINLx4GOozKT-F0ELYbPuBu3vvqigrV_-uojPbbwT0KCKlMJZLyjY1lNQSkBRADWrDtvjzhh7CjOnfc1LLRecQSIPWcea_t0-lDBJ0q8XtQQzhhIVjzVMdx2OTjHSD2
+                        - generic [ref=f4e714]:
+                          - generic [ref=f4e715]:
+                            - generic [ref=f4e718]: cookpad.com
+                            - button [ref=f4e722] [cursor=pointer]
+                          - generic [ref=f4e728]:
+                            - generic [aria-hidden] [ref=f4e729]: Hyderabad Chicken Dum Briyani
+                            - generic [ref=f4e730]: Great recipe for Hyderabad Chicken Dum Briyani.
+                    - listitem [ref=f4e733]:
+                      - generic [ref=f4e734]:
+                        - link [ref=f4e735] [cursor=pointer]:
+                          - /url: /goto?url=CAESfAHEIkXXYwhSPBUZcFUtkRsoxhnU2UGrkCxA6heW_43YYWBTwFyzEelkTPI3Df374ApJfn3jm3jTD2cLUOtwYcor5jE-32Tr_I5-qXiF93o2F7zSxJSzIihI2vPBXeb-EAoWusjLhBk5BFbOswRWlCcvwlTDb3FLVrftpD4
+                        - generic [ref=f4e736]:
+                          - generic [ref=f4e737]:
+                            - generic [ref=f4e740]: rachnacooks.com
+                            - button [ref=f4e744] [cursor=pointer]
+                          - generic [ref=f4e750]:
+                            - generic [aria-hidden] [ref=f4e751]: Hyderabad Chicken Biryani Recipe
+                            - generic [ref=f4e752]: This is a tasty and elaborate Hyderabad Chicken Biryani recipe. It is really worth all the effort. Try my step-by-step biryani rec...
+                    - listitem [ref=f4e755]:
+                      - generic [ref=f4e756]:
+                        - link [ref=f4e757] [cursor=pointer]:
+                          - /url: /goto?url=CAESZQHEIkXXtwZNDZbV-Sa-K87KsxL4x_nEx4IlE8nTh2x03OGThg24uECqbpwEkx5AxMb-1DJPDPhmy_4rqRNRxj1XKgEcw32o1KSo9QoLqG6qhSF2il6KI5dI2USioPH1Le2MU3oI
+                        - generic [ref=f4e758]:
+                          - generic [ref=f4e759]:
+                            - generic [ref=f4e762]: cookpad.com
+                            - button [ref=f4e766] [cursor=pointer]
+                          - generic [ref=f4e772]:
+                            - generic [aria-hidden] [ref=f4e773]: Hyderabad Chicken Dum Biryani
+                            - generic [ref=f4e774]: Biryani is my favourite dish. There were days when I was in college, I ate biryani on 5 out of 7 days in a week :) But after movin...
+                    - listitem [ref=f4e777]:
+                      - generic [ref=f4e778]:
+                        - link [ref=f4e779] [cursor=pointer]:
+                          - /url: /goto?url=CAESdgHEIkXXaT8QbQq6XpYUGq9bGLRcSmQMKxW7VNy3t2IBXBkeRMnROOvastZRYUHb_UfDGIwuK9pX9jLXIwj6WraXg-TExgOFGYLiEfL6tnJ91z7AW0JwRK2eXdEIysSErNYl6F34jxfQYotNmd4Rbwr5R-8fYNE
+                        - generic [ref=f4e780]:
+                          - generic [ref=f4e781]:
+                            - generic [ref=f4e784]: sailusfood.com
+                            - button [ref=f4e788] [cursor=pointer]
+                          - generic [ref=f4e794]:
+                            - generic [aria-hidden] [ref=f4e795]: Hyderabadi chicken biryani recipe
+                            - generic [ref=f4e796]: Hyderabadi chicken biryani recipe, the best authentic biryani better than restaurant-style biryani. How to make chicken biryani du...
+                  - button [aria-hidden] [ref=f4e799] [cursor=pointer]
+              - generic [ref=f4e806]:
+                - generic [ref=f4e809]:
+                  - text: AI responses may include mistakes.
+                  - link [ref=f4e810] [cursor=pointer]:
+                    - /url: https://support.google.com/websearch?p=ai_overviews
+                    - text: Learn more
+                - generic [ref=f4e811]:
+                  - generic [ref=f4e812]:
+                    - status [ref=f4e813]
+                    - button [ref=f4e815] [cursor=pointer]
+                  - button [ref=f4e826] [cursor=pointer]
+                  - generic [ref=f4e832]:
+                    - button [ref=f4e834] [cursor=pointer]
+                    - button [ref=f4e839] [cursor=pointer]
+                  - button [ref=f4e846] [cursor=pointer]
+            - button "Show more AI Overview" [ref=f4e857]:
+              - generic [ref=f4e858] [cursor=pointer]: Show more
+          - generic [ref=f4e867]:
+            - heading "Web results" [level=2] [ref=f4e868]
+            - generic [ref=f4e869]:
+              - generic [ref=f4e872]:
+                - link "Hyderabadi Chicken Biryani Swasthi's Recipes https://www.indianhealthyrecipes.com › hyderabadi-biry..." [ref=f4e874] [cursor=pointer]:
+                  - /url: /goto?url=CAESfAHEIkXXBwKk7F5Tu9PAkUQ9ubAwZjolQoyUsNefmpL5qdRN25hPGF9U5sjcPLoCQAnU2g2FQ3T-GHxIMWUJ0NVFY1-1sO_yususbKDA202TddSzNNjVNa3Baui-KRAVcy5WkVRWt1BDscC95izMNlT5eTa8bRbAFJnuct8&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                  - heading "Hyderabadi Chicken Biryani" [level=3] [ref=f4e875]
+                  - generic [ref=f4e881]:
+                    - generic [ref=f4e882]: Swasthi's Recipes
+                    - generic [ref=f4e884]: https://www.indianhealthyrecipes.com › hyderabadi-biry...
+                - button "About this result" [ref=f4e890] [cursor=pointer]
+              - generic [ref=f4e896]:
+                - generic [ref=f4e897]: Feb 26, 2022 —
+                - generic [ref=f4e898]:
+                  - text: 1. To a mixing bowl, add
+                  - emphasis [ref=f4e899]: 2/3 cup (165 ml) yogurt
+                  - text: ", ¾ teaspoon salt, 1 to 1½ teaspoon red chili powder, 1 to 1½ teaspoon biryani masala, ¼ ..."
+                - link "Read more" [ref=f4e900] [cursor=pointer]:
+                  - /url: /goto?url=CAES0QEBxCJF17J11zr-KGrY1GBapRP3ALKQ1h8Hhg0eM1Jjx9PkaNsJD3DaZ9gCFOQvHiBX57Vbkidrrk305B9Qm3MBBeeI4kf7eIgNIqy-UX7XLWzJB0si9B0kaWtmBnx_kYlJq8c6DN3UnssyP6mzpNaKEJwCL9D--7U0U0qhsb6BE6EBFjWbX937jcauELusjjU_Mr5QAm14ERXnadkAvE1wf5PzOgjrj4L4qDpBK1XXvc4KKy4EuBdlyRsyaMoA-Ju0TkzUcIhMpwkPTrmTtBMGxw&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+              - link [aria-hidden] [ref=f4e903] [cursor=pointer]:
+                - /url: /goto?url=CAESfAHEIkXXP9oiqjUtIy3ryOdVlCbTSBIYHCcBMmOK81J9r5X2Y4l-K74UZG1Fsj_qeHPUVzTF-dRT-6w1R-R6IRmIgZM3Azpai9dFirQa_eHZfIat0IB8PntVReKnhH3rGJg_VCd77TkqVXY_65409Pvgewd7KyjyBKYI8kE&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+              - generic [ref=f4e907]:
+                - img "Rated 5.0 out of 5, (620) user reviews" [ref=f4e908]: 5.0(620)
+                - text: · 3 hr
+          - generic [ref=f4e915]:
+            - generic [ref=f4e917]:
+              - heading "Videos" [level=2] [ref=f4e918]
+              - button "About this result" [ref=f4e923] [cursor=pointer]
+            - generic [ref=f4e929]:
+              - generic [ref=f4e936]:
+                - generic [ref=f4e937]:
+                  - link [ref=f4e939] [cursor=pointer]:
+                    - /url: /goto?url=CAESaAHEIkXXcL3zoIYp3a7apISvL71Xa0As-jjEQk2FbsjdGheB6MZTIw7Xg31ZJfiV8jqqHzz3gwX4u9ITWaUuxAYBasjaau8vdLniE2n4vsMoUZ0BNLJBHEPkmV-07lq0TYKe9DsqXQAc&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                    - heading "HYDERABADI CHICKEN DUM BIRYANI RECIPE YouTube Spice Eats Nov 19, 2021" [level=3] [ref=f4e940]:
+                      - generic [ref=f4e941]: HYDERABADI CHICKEN DUM BIRYANI RECIPE
+                      - generic [ref=f4e945]:
+                        - generic [ref=f4e946]:
+                          - text: YouTube
+                          - generic [ref=f4e947]: · Spice Eats
+                        - generic [ref=f4e948]: Nov 19, 2021
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Spice Eats
+                      - button "About this result" [ref=f4e952] [cursor=pointer]
+                - button "HYDERABADI CHICKEN DUM BIRYANI RECIPE by Spice Eats on YouTube. Play on Google. 5:09" [ref=f4e957] [cursor=pointer]:
+                  - generic [ref=f4e967]: 5:09
+              - generic [ref=f4e978]:
+                - generic [ref=f4e979]:
+                  - generic [ref=f4e980]:
+                    - link [ref=f4e982] [cursor=pointer]:
+                      - /url: /goto?url=CAESaAHEIkXX8IOmQ-kLAp7qPfJuCcie5GvBv74becnF4BkHsc9TZB8qEvumVTdntZTPhSLEzZDyHn3NVKt_DsiqFkwI4KrJmFjulTHwPP-1z6TcSYiyau84fm-aoZ3n9IfujkTO6i_16pgT&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                      - heading "Hyderabadi Chicken Biryani recipe restaurant style/Paradise ... YouTube Nupur's Indian Kitchen Jan 10, 2025" [level=3] [ref=f4e983]:
+                        - generic [ref=f4e984]: Hyderabadi Chicken Biryani recipe restaurant style/Paradise ...
+                        - generic [ref=f4e988]:
+                          - generic [ref=f4e989]:
+                            - text: YouTube
+                            - generic [ref=f4e990]: · Nupur's Indian Kitchen
+                          - generic [ref=f4e991]: Jan 10, 2025
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic [aria-hidden]:
+                              - text: YouTube
+                              - generic: · Nupur's Indian Kitchen
+                        - button "About this result" [ref=f4e995] [cursor=pointer]
+                  - button "Hyderabadi Chicken Biryani recipe restaurant style/Paradise ... by Nupur's Indian Kitchen on YouTube. Play on Google. 13:53" [ref=f4e1000] [cursor=pointer]:
+                    - generic [ref=f4e1010]: 13:53
+                - button "Make Hyderabadi Chicken Biryani restaurant-style with fresh garam masala, ginger-garlic paste, and specific cooking techniques." [ref=f4e1017] [cursor=pointer]:
+                  - generic [ref=f4e1019]: Make Hyderabadi Chicken Biryani restaurant-style with fresh garam masala, ginger-garlic paste, and specific cooking techniques.
+              - generic [ref=f4e1028]:
+                - generic [ref=f4e1029]:
+                  - link [ref=f4e1031] [cursor=pointer]:
+                    - /url: /goto?url=CAESaAHEIkXXAq8vNmxO-ISTy7SWg64vfGYTXH4oEVP-bRo3P81vZ9t5d4Tl4Ph6j0geuGkouD2kKr5YcgeWLd5KxuJOzH7zjNjd6zoPaSFIscO_LzJCdHb_36dNPXDpkZCmW4_bGf0vrT2R&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                    - heading "Authentic Hyderabadi Chicken Dum Biryani YouTube Chef Nasim Aug 31, 2025" [level=3] [ref=f4e1032]:
+                      - generic [ref=f4e1033]: Authentic Hyderabadi Chicken Dum Biryani
+                      - generic [ref=f4e1037]:
+                        - generic [ref=f4e1038]:
+                          - text: YouTube
+                          - generic [ref=f4e1039]: · Chef Nasim
+                        - generic [ref=f4e1040]: Aug 31, 2025
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Chef Nasim
+                      - button "About this result" [ref=f4e1044] [cursor=pointer]
+                - button "Authentic Hyderabadi Chicken Dum Biryani by Chef Nasim on YouTube. Play on Google. 11:47" [ref=f4e1049] [cursor=pointer]:
+                  - generic [ref=f4e1059]: 11:47
+              - generic [ref=f4e1069]:
+                - generic [ref=f4e1070]:
+                  - generic [ref=f4e1071]:
+                    - link [ref=f4e1073] [cursor=pointer]:
+                      - /url: /goto?url=CAESaAHEIkXXgvxWIpJXbCym-udurFDD8dyeg_gPHk29t3OmuKGcdswCEGiGaWoEDoAt6IllId0Pko1knZ4Hm_LqePEf6U8G8vfsGzmVDf7zKQQOI-CG4By9W0XbJ0LRaWXRzRwKXdlJa9zs&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                      - heading "Chicken Biryani Recipe | Resaturant Hyderabadi ... YouTube Ashus Delicacies Jan 1, 2026" [level=3] [ref=f4e1074]:
+                        - generic [ref=f4e1075]: Chicken Biryani Recipe | Resaturant Hyderabadi ...
+                        - generic [ref=f4e1079]:
+                          - generic [ref=f4e1080]:
+                            - text: YouTube
+                            - generic [ref=f4e1081]: · Ashus Delicacies
+                          - generic [ref=f4e1082]: Jan 1, 2026
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic [aria-hidden]:
+                              - text: YouTube
+                              - generic: · Ashus Delicacies
+                        - button "About this result" [ref=f4e1086] [cursor=pointer]
+                  - button "Chicken Biryani Recipe | Resaturant Hyderabadi ... by Ashus Delicacies on YouTube. Play on Google. 4:59" [ref=f4e1091] [cursor=pointer]:
+                    - generic [ref=f4e1098]: 4:59
+                - button "पक्के गोश्त की हैदराबादी चिकन बिरयानी बनाने के लिए, चिकन को मैरीनेट करके पकाएं, फिर चावल के साथ दम पर पकाएं।" [ref=f4e1105] [cursor=pointer]:
+                  - generic [ref=f4e1107]: पक्के गोश्त की हैदराबादी चिकन बिरयानी बनाने के लिए, चिकन को मैरीनेट करके पकाएं, फिर चावल के साथ दम पर पकाएं।
+            - link "View all videos" [ref=f4e1111] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=294514daef385b90&biw=1200&bih=862&udm=vids&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Authentic+telangana+chicken+biryani+recipe&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8ccDKAJ6BAggEAU
+              - separator [aria-hidden] [ref=f4e1112]
+              - generic [ref=f4e1113]: View all
+          - generic [ref=f4e1124]:
+            - heading "Recipes" [level=3] [ref=f4e1126]
+            - generic [ref=f4e1128]:
+              - generic [ref=f4e1129]:
+                - generic [ref=f4e1133]:
+                  - link "Hyderabadi Biryani Swasthi's Recipes Rated 5.0 out of 5, 620 user reviews 3 hr Fried onions, basmati rice, biryani masala, biryani masala powder, star anise" [ref=f4e1135] [cursor=pointer]:
+                    - /url: /goto?url=CAESfAHEIkXXP9oiqjUtIy3ryOdVlCbTSBIYHCcBMmOK81J9r5X2Y4l-K74UZG1Fsj_qeHPUVzTF-dRT-6w1R-R6IRmIgZM3Azpai9dFirQa_eHZfIat0IB8PntVReKnhH3rGJg_VCd77TkqVXY_65409Pvgewd7KyjyBKYI8kE&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                    - generic [ref=f4e1141]:
+                      - heading "Hyderabadi Biryani" [level=3] [ref=f4e1142]
+                      - generic [ref=f4e1143]: Swasthi's Recipes
+                      - img "Rated 5.0 out of 5, 620 user reviews" [ref=f4e1147]: 5.0(620)
+                      - generic [ref=f4e1151]: 3 hr
+                      - generic [ref=f4e1152]: Fried onions, basmati rice, biryani masala, biryani masala powder, star anise
+                  - button "Add Hyderabadi Biryani to saves list" [ref=f4e1156]:
+                    - generic [ref=f4e1157] [cursor=pointer]
+                - generic [ref=f4e1165]:
+                  - link "Hyderabadi Chicken Biryani The Delicious Crescent Rated 5.0 out of 5, 70 user reviews 1 hr 30 min Chicken breast, fried onions, basmati rice, yogurt, mint" [ref=f4e1167] [cursor=pointer]:
+                    - /url: /goto?url=CAESggEBxCJF17IfTZWLATmt7bS9sNW_hxm5VuPNvJLC6k7FmEzSzqTe-u049ULW2utaOZJrlCGZ22H-HQViAYvx70k9klluzq1hEnOsutc6qnlj07uKmIDiZ1LS6FT4BPQ07EKThMv8F8XHXszJPM4Ckj55RXut25Y18-qKeS5yq24JrhS8&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                    - generic [ref=f4e1173]:
+                      - heading "Hyderabadi Chicken Biryani" [level=3] [ref=f4e1174]
+                      - generic [ref=f4e1175]: The Delicious Crescent
+                      - img "Rated 5.0 out of 5, 70 user reviews" [ref=f4e1179]: 5.0(70)
+                      - generic [ref=f4e1183]: 1 hr 30 min
+                      - generic [ref=f4e1184]: Chicken breast, fried onions, basmati rice, yogurt, mint
+                  - button "Add Hyderabadi Chicken Biryani to saves list" [ref=f4e1188]:
+                    - generic [ref=f4e1189] [cursor=pointer]
+                - generic [ref=f4e1197]:
+                  - link "Hyderabadi Chicken Dum Biryani Recipe Yummy Indian Kitchen Rated 4.5 out of 5, 31 user reviews 2 hr 45 min Fried onions, basmati rice, yogurt, lemon, green chili paste" [ref=f4e1199] [cursor=pointer]:
+                    - /url: /goto?url=CAESggEBxCJF145_lfSvdGxyK_Z2ehPTC8bRBwXQmM6hVZCwcFSDBFR_WniDVTBi30HyN9l0BLOKtSvIHGzjgjAcS8M8uQPwzyr6_mQ1kjrgph1V97b2xPRwQf_i8qZZGDpSlUNnT0ucaorOtKuYlhrd-ycOPbUssNtbODSlvY57luHmhy3A&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                    - generic [ref=f4e1205]:
+                      - heading "Hyderabadi Chicken Dum Biryani Recipe" [level=3] [ref=f4e1206]
+                      - generic [ref=f4e1207]: Yummy Indian Kitchen
+                      - img "Rated 4.5 out of 5, 31 user reviews" [ref=f4e1211]: 4.5(31)
+                      - generic [ref=f4e1215]: 2 hr 45 min
+                      - generic [ref=f4e1216]: Fried onions, basmati rice, yogurt, lemon, green chili paste
+                  - button "Add Hyderabadi Chicken Dum Biryani Recipe to saves list" [ref=f4e1220]:
+                    - generic [ref=f4e1221] [cursor=pointer]
+              - button "More recipes" [ref=f4e1228]:
+                - separator [aria-hidden] [ref=f4e1229]
+          - generic [ref=f4e1240]:
+            - heading "Web results" [level=2] [ref=f4e1241]
+            - generic [ref=f4e1242]:
+              - generic [ref=f4e1245]:
+                - link "Easy Hyderabadi Chicken Biryani The Delicious Crescent https://www.thedeliciouscrescent.com › Recipes › Indian" [ref=f4e1247] [cursor=pointer]:
+                  - /url: /goto?url=CAESggEBxCJF19HGE-XyOAH9wLVzk3bI_qt6HxGoLSoxxUDto_QgGRdkVkdl3TqG6vgs-gB5wqKeOsnxJPXi-f0mhOE4wbobUeViMLxpxnbrdTHpm4qm8pai6Gd1gwWkVp1LfvM7IUxd6b9jjEvEawv4dHwunBuzv_otfm5IAF0dHfDZCBr_&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                  - heading "Easy Hyderabadi Chicken Biryani" [level=3] [ref=f4e1248]
+                  - generic [ref=f4e1254]:
+                    - generic [ref=f4e1255]: The Delicious Crescent
+                    - generic [ref=f4e1257]: https://www.thedeliciouscrescent.com › Recipes › Indian
+                - button "About this result" [ref=f4e1263] [cursor=pointer]
+              - generic [ref=f4e1269]:
+                - generic [ref=f4e1270]: Nov 7, 2024 —
+                - generic [ref=f4e1271]:
+                  - text: 1½ lb
+                  - emphasis [ref=f4e1272]: chicken
+                  - text: with bone, cut and clean, avoid
+                  - emphasis [ref=f4e1273]: chicken
+                  - text: breast ; ⅔ cup yogurt plain ; 1½ tablespoons ginger garlic paste or grated ginger and ...
+                - link "Read more" [ref=f4e1274] [cursor=pointer]:
+                  - /url: /goto?url=CAES3AIBxCJF1601mk2MgDEaqQm52P2fPFw9Re1hMWZU0FDVXx8Ys9FRWeNuOpCNvzfpzi96qfzMN8x4z-IrVPsqG-ANlNvQIZyJh4OfS97z_tFwjTkN0uNepFKtJD1GXhDcxbFYWdGM1N6dZN6Ob6-qEePwzJuox80YxnMzjNVUDp11Jdkz9aeo98_aSBnd9q6sIuOeaKkHnbLQHJLoiZib5XMfQdpQOOx4qURizGxTwZvqb0WU9o1b1_CKlncqUKHxLlPUu2rGtu-eu7JcDBOmZx2X0NSzmubQLqF-x7vVs9V8-24VdUUCkbKd0ihJHu-7pU-f284vmJxuAIaKj0SGE72pu2MsLVcSNlsemsWIlTs5_vyT1EnEBzcq6Ue2F6xxtAeqc9-3r9vbZbB31zwR_mPk9omJdIaVxv_NdcsrKIJC7cZQTmgrT_qnJp5UuO1b6oeF2VK2PZZLfrWMch8&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+              - link [aria-hidden] [ref=f4e1277] [cursor=pointer]:
+                - /url: /goto?url=CAESggEBxCJF17IfTZWLATmt7bS9sNW_hxm5VuPNvJLC6k7FmEzSzqTe-u049ULW2utaOZJrlCGZ22H-HQViAYvx70k9klluzq1hEnOsutc6qnlj07uKmIDiZ1LS6FT4BPQ07EKThMv8F8XHXszJPM4Ckj55RXut25Y18-qKeS5yq24JrhS8&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+              - generic [ref=f4e1281]:
+                - img "Rated 5.0 out of 5, (70) user reviews" [ref=f4e1282]: 5.0(70)
+                - text: · 1 hr 30 min
+          - generic [ref=f4e1290]:
+            - heading "People also ask" [level=2] [ref=f4e1292]
+            - generic [ref=f4e1293]:
+              - button "What is the secret ingredient for biryani?" [ref=f4e1299] [cursor=pointer]
+              - button "What are the ingredients for authentic chicken biryani?" [ref=f4e1313] [cursor=pointer]
+              - button "What is the authentic Hyderabadi chicken biryani recipe?" [ref=f4e1327] [cursor=pointer]
+              - button "What is the secret to a good biryani?" [ref=f4e1341] [cursor=pointer]
+          - generic [ref=f4e1351]:
+            - heading "Web results" [level=2] [ref=f4e1352]
+            - generic [ref=f4e1353]:
+              - generic [ref=f4e1356]:
+                - link "Hyderabadi Dum Chicken Biryani Recipe - Daawat Daawat https://www.daawat.com › recipes › hyderabadi-dum-chi..." [ref=f4e1358] [cursor=pointer]:
+                  - /url: /goto?url=CAESegHEIkXXiwSUXytPs0Z1zQMLfI2Di7aTZmXyAfm7USSqvb7AoCNOnmljhBv6ZL7vtSAs9jsS6Usq-umlHnFzRpcKbK44IiAejvgkvwNa7IWcbQxQV1MsqSoK4Ulnx1k2DggHJbw9vwrfLvh9sZ_wSFiDe_X9WFRI12rK&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                  - heading "Hyderabadi Dum Chicken Biryani Recipe - Daawat" [level=3] [ref=f4e1359]
+                  - generic [ref=f4e1365]:
+                    - generic [ref=f4e1366]: Daawat
+                    - generic [ref=f4e1368]: https://www.daawat.com › recipes › hyderabadi-dum-chi...
+                - button "About this result" [ref=f4e1374] [cursor=pointer]
+              - generic [ref=f4e1380]:
+                - generic [ref=f4e1381]:
+                  - emphasis [ref=f4e1382]: Ingredients
+                  - text: · 1½ cups of Daawat Biryani Basmati rice, soaked · 6 green cardamoms · 2 black cardamoms · 1 blade mace (Javitri) · 1-inch cinnamon · 6-8 cloves · 8 ...
+                - link "Read more" [ref=f4e1383] [cursor=pointer]:
+                  - /url: /goto?url=CAES_QIBxCJF155pdl7aL54pxYbFcdbe0qMOCA6-TEscH86Cnk6SkApJtK4Rcc9-ZCDJROinFGDe8LRc3-cP-pnExZrSttIB_vNFnJiUqah6b_NbBXcVYMSHHroQd6ww1iCdHdi1KynfaRXU6hOvFjbBhM8wZm_qvrylZzWop9ZamkoJlQ6wzRHK8pZvQwT0gzA_jKexlnvQXmBPJ1b1W6db_VT5nb6JM4zqtgY5cO3MnouOaYDl7y9xgLadCHoKT7mRk0lL3Xc90Hk0nS7yvCuxyV1usVeU7LnbHdDlQr3Vz1MwAtoPz1udZjaAfi7HYRQExUh6ogAVKsv1yVWjqzY1SU4cBEIJvqJ7q8GkoiCyAERVcQHftXICrztWtn3gpxpBm59093-2ioe4cMjSUPSNFaWQj3mYeKFrAa3Bx3Ei8QizWYcRXSbL3_dJVvjoot7ufWkkOBUryEm1WwTb3tfxgJ8PdBfQmT9lF9JRzPOdKOUFZ2B2EwH3Bd1e13VIAsk&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+              - link [aria-hidden] [ref=f4e1386] [cursor=pointer]:
+                - /url: /goto?url=CAESegHEIkXXhFhe3kRa31raQ0hN-dMjCpYzwdcrkcr2nGLdfSpJ4HPKw4l9T9MOfA-n7NtFHkRy6RUtcsstdy6Nhy3rwXlZFyr2WmTS2TKElGnOUlPVIxLOhSw_sCxr9fpkeAJyXDhJ8N1CaxxbZczDoEG3rxonwJTSW8U8&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+          - generic [ref=f4e1395]:
+            - generic [ref=f4e1398]:
+              - link "How to Make Hyderabadi Chicken Biryani at Home YouTube · How To Feed A Loon 910+ views · 2 months ago" [ref=f4e1400] [cursor=pointer]:
+                - /url: /goto?url=CAESaAHEIkXXaLPsnXUZ2khCpiuonC-tkTFD6z_rMJ1GqgjtGNPkU26BeTHcU9TKVkCAkl_ojF8-qEuSb83JNsBl3m4z0ks3jSLm1hHPiVPhcv-nvG7aXEkVoK1ySSIaHO_mzmzvwHJ5rZOf&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                - heading "How to Make Hyderabadi Chicken Biryani at Home" [level=3] [ref=f4e1401]
+                - generic [ref=f4e1407]:
+                  - generic [ref=f4e1408]: YouTube · How To Feed A Loon
+                  - generic [ref=f4e1410]: 910+ views · 2 months ago
+              - button "About this result" [ref=f4e1416] [cursor=pointer]
+            - generic [ref=f4e1421]:
+              - button "How to Make Hyderabadi Chicken Biryani at Home by How To Feed A Loon on YouTube. Play on Google. 29:27" [ref=f4e1422] [cursor=pointer]:
+                - generic [ref=f4e1423]: 29:27
+              - generic [ref=f4e1439]: Learn how to make incredible Hyderabadi Chicken Biryani right in your own kitchen! This classic recipe features tender yogurt-marinated ...
+          - generic [ref=f4e1444]:
+            - generic [ref=f4e1447]:
+              - link "Hyderabadi Chicken Biryani Nish Kitchen https://nishkitchen.com › all recipes" [ref=f4e1449] [cursor=pointer]:
+                - /url: /goto?url=CAESbwHEIkXX8tvChe1zJQQf-TVssOnPbvJFoQQyqRlAQPVp4umn24YhpU0OXUUdRe_iQifJIUAr7WkLNk87Wxn8w8ct5hImOMtxlKGhHl_wkoM4bhwc1DuF8nUckK2Twz9cY4DW-_5Xg2VvJZxcGkUEgw&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                - heading "Hyderabadi Chicken Biryani" [level=3] [ref=f4e1450]
+                - generic [ref=f4e1456]:
+                  - generic [ref=f4e1457]: Nish Kitchen
+                  - generic [ref=f4e1459]: https://nishkitchen.com › all recipes
+              - button "About this result" [ref=f4e1465] [cursor=pointer]
+            - generic [ref=f4e1471]:
+              - generic [ref=f4e1472]: Nov 27, 2015 —
+              - generic [ref=f4e1473]:
+                - emphasis [ref=f4e1474]: Hyderabadi chicken biryani
+                - text: with layers of rice, spices, herbs and chicken or mutton is much easier to make than you think!
+            - link [aria-hidden] [ref=f4e1477] [cursor=pointer]:
+              - /url: /goto?url=CAESbwHEIkXX5FFrZZEw7UGcwp07mua5fUpGD2qfL49yxzif2XZwaKFf6rIc6JhZE4Ff9Glp71K7mDbJK5YMTw1pKsSwF2UuREeP1rjEJEpAV4HAt_v5CXXuH9aJgOn49EH-SY4HH7t76fCFr8xsmmU8_w&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+            - generic [ref=f4e1481]:
+              - img "Rated 5.0 out of 5, (127) user reviews" [ref=f4e1482]: 5.0(127)
+              - text: · 1 hr
+          - generic [ref=f4e1489]:
+            - generic [ref=f4e1492]:
+              - link "Hyderabadi Chicken Dum Biryani Recipe Kannamma Cooks https://www.kannammacooks.com › hyderabadi-chicke..." [ref=f4e1494] [cursor=pointer]:
+                - /url: /goto?url=CAESgQEBxCJF1wzEHEPy3z7rm3E98kmz83If28G_JmxxEr3H4Ousj8a1FkZ7nN5BfdgkH2qBJ6sN1iQkps_wvajxM1FueBgdN5tz4N2wuAEkLXlWcXn_ftYiyhTBr_LDLyyaa--kN2rGt3Jua2Xlw2AXf0W27mrSBl-wRb5nys00TyoQwJs&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                - heading "Hyderabadi Chicken Dum Biryani Recipe" [level=3] [ref=f4e1495]
+                - generic [ref=f4e1501]:
+                  - generic [ref=f4e1502]: Kannamma Cooks
+                  - generic [ref=f4e1504]: https://www.kannammacooks.com › hyderabadi-chicke...
+              - button "About this result" [ref=f4e1510] [cursor=pointer]
+            - generic [ref=f4e1516]:
+              - generic [ref=f4e1517]: Jun 30, 2020 —
+              - generic [ref=f4e1518]:
+                - emphasis [ref=f4e1519]: Cooking Rice for Hyderabadi Chicken Dum Biryani
+                - text: · 1 star anise · 2 cardamom · 2 bay leaves · 3 cloves · 1 inch cinnamon · 2 cups basmati rice (500 ml) ...
+              - link "Read more" [ref=f4e1520] [cursor=pointer]:
+                - /url: /goto?url=CAES1QIBxCJF11Nbn7K4WLjvOLQAA44nelGJ31WMy_-sD6Y3uf1qt0DRhul9qTCsFTRkr1ZIlDDITwZAdoHPyqYek0xHorrayq7xLO_znJGnldTVRZ-YIW9nfLRTvNrA6iFOZwqezELF32AK-G6J2hZRw9WKnnfQ3nEOMNL4XpzUx-0dZVgR2ooM6pfUQe7-UNdT7Ae-4oJQ-lNyY_EDw1GPi7ODz9oH7nMQKvadkUJ_8T8eUb21eJD6CO5KRp9pYqkjoPFyutpkLYba6w_m2krXNdFJ6dcQxIN8-5ruEoRTsFd4SadW-fCOQX1sLIZxCFc1V3C6QkJmTQfVHCbjcKjYafxNbZjY55U3_covI7G1eVdtf0kgzkXe5hHGcvgLKhGxDHswtya4MoZ3HpMsSTEiDbwoIm67jdUmmjP9C32zZtAmnNSP6MnZ-qS8mtMbo454pULugJQphg&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+            - link [aria-hidden] [ref=f4e1523] [cursor=pointer]:
+              - /url: /goto?url=CAESgQEBxCJF1xE2jFTeS2vNkO2P4H_C-wPofrtVo3FUvpB0AQZ9yxRkMlNrCwM7RCiTq6bXmVqMO8mjA7QYxDyO3hvrD2BU5lu26cYrqgJNhX6IilgEPYn-j8_YIWIscb450QKkyyOUZ70hUeW0xcHC-5yCPoZ-rwKXc99RLVTU56rMzY4&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+            - img "Rated 5.0 out of 5, (6) user reviews" [ref=f4e1528]: 5.0(6)
+          - generic [ref=f4e1535]:
+            - generic [ref=f4e1538]:
+              - link "Best Easy & Authentic Chicken Biryani Recipe Joshua Weissman https://www.joshuaweissman.com › recipes › best-easy-..." [ref=f4e1540] [cursor=pointer]:
+                - /url: /goto?url=CAEShAEBxCJF16amRw4d6DFZbAm0eN0j23G8bQFf3cv6OSl-iB1rUMA0HgWS2GbjVEOqqADj4rTYbdqtE14dmhpe4Q3FuPznfFeP9k7sEup4I2TDxSTvHBTzOfYCk3HmD5EW9xhkrpdYXlC2DxLrPch2a_1V9pPOQbC5h-_oxVgFEWwwlHGHyME&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+                - heading "Best Easy & Authentic Chicken Biryani Recipe" [level=3] [ref=f4e1541]
+                - generic [ref=f4e1547]:
+                  - generic [ref=f4e1548]: Joshua Weissman
+                  - generic [ref=f4e1550]: https://www.joshuaweissman.com › recipes › best-easy-...
+              - button "About this result" [ref=f4e1556] [cursor=pointer]
+            - generic [ref=f4e1562]:
+              - generic [ref=f4e1563]:
+                - emphasis [ref=f4e1564]: Hyderabadi Biryani
+                - text: ". Prep and Marinade Time: 1 hour 15 minutes to overnight, *For best results let the chicken marinade overnight. Cook Time: 1 hour 10 minutes."
+              - link "Read more" [ref=f4e1565] [cursor=pointer]:
+                - /url: /goto?url=CAESxAEBxCJF1yDbJKNZp5qq7bFY5kLVJUZqyBPgNvQlrsj2gliH5RON5oYE3559jo6ydf5BpJu-8Nu011TStysgNF2OM7DQYEtLxKg-ciXr7FaY7QPtq-zZL8EC8bu2z2SVpN0OAzfhQt1c70RJ1Gr7HpbcE7YVcY_e4DSNUH3w7zyYymo3oxgimePtvRqlrfh4F629uilhGrWtI4RQ6r53IpCyeM6iuxZxR0oSznPIG4W9PloxEGgdUjx06C2nVQXIUKIsWadZ&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+            - link [aria-hidden] [ref=f4e1568] [cursor=pointer]:
+              - /url: /goto?url=CAEShAEBxCJF16Jonyi5UoYO22bLl6BAg2DaVlSrZ2eyKTKo5RNY1qwMaIxS0NslJsPsqN5BVAI_6aySN50BewfxHdpxX9kMH1A30oPOAp--r0NwzGJ9-YcTM9Nr8pKEdLiy3aPjRsq2aOnq5awO5f7plGmc9arNkpiRVHxBwFm4olJO31iCAIY&gsessionid=SrFy-Nu65MLwh1cbIk4O8uJZyOPc4d3N-U17H_zPHnqGqpR5WGsGNQ
+        - generic [ref=f4e1572]:
+          - generic [ref=f4e1577]:
+            - heading "People also search for" [level=2] [ref=f4e1579]
+            - generic [ref=f4e1581]:
+              - generic [ref=f4e1582]:
+                - link "Authentic telangana chicken biryani recipe ingredients" [ref=f4e1586] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Authentic+telangana+chicken+biryani+recipe+ingredients&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAg5EAE
+                - link "Hyderabadi Chicken biryani recipe pdf" [ref=f4e1600] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+Chicken+biryani+recipe+pdf&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAhHEAE
+                - link "Hyderabadi chicken biryani masala recipe" [ref=f4e1614] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+chicken+biryani+masala+recipe&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAhEEAE
+                - link "Hyderabadi chicken biryani ingredients" [ref=f4e1628] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+chicken+biryani+ingredients&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAhBEAE
+              - generic [ref=f4e1639]:
+                - link "Hyderabadi biryani recipe step by step" [ref=f4e1643] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+biryani+recipe+step+by+step&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAg_EAE
+                - link "Hyderabadi Dum chicken biryani" [ref=f4e1657] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+Dum+chicken+biryani&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAg-EAE
+                - link "Hyderabadi Chicken Biryani near me" [ref=f4e1671] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+Chicken+Biryani+near+me&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAg9EAE
+                - link "Hyderabadi chicken biryani origin" [ref=f4e1685] [cursor=pointer]:
+                  - /url: /search?sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&q=Hyderabadi+chicken+biryani+origin&sa=X&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ1QJ6BAg7EAE
+          - navigation [ref=f4e1696]:
+            - heading "Page Navigation" [level=1] [ref=f4e1697]
+            - text: "1"
+            - link "Page 2" [ref=f4e1700] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=10&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAE
+              - text: "2"
+            - link "Page 3" [ref=f4e1702] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=20&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAG
+              - text: "3"
+            - link "Page 4" [ref=f4e1704] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=30&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAI
+              - text: "4"
+            - link "Page 5" [ref=f4e1706] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=40&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAK
+              - text: "5"
+            - link "Page 6" [ref=f4e1708] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=50&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAM
+              - text: "6"
+            - link "Page 7" [ref=f4e1710] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=60&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAO
+              - text: "7"
+            - link "Page 8" [ref=f4e1712] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=70&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAQ
+              - text: "8"
+            - link "Page 9" [ref=f4e1714] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=80&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAS
+              - text: "9"
+            - link "Page 10" [ref=f4e1716] [cursor=pointer]:
+              - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=90&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8tMDegQIUxAU
+              - text: "10"
+            - heading [level=2] [ref=f4e1718]:
+              - link "Next" [ref=f4e1719] [cursor=pointer]:
+                - /url: /search?q=Authentic+telangana+chicken+biryani+recipe&sca_esv=294514daef385b90&biw=1200&bih=862&sxsrf=AKL5yDiXnGi-2WzXZovahdP3ZFoJQne7hA:1794513298176&ei=khn2au-gCuC90PEPuf6VgQI&start=10&sa=N&sstk=AYl2yk_ZKIO45hrKXhqNwKPA7I_b2weG6qF4zZ8HtQht7MpewwBahF6gn81aiULVZNUfh41SYLd1eA0gxijp0WX5uXL325NggoErxg&ved=2ahUKEwjvsbr9moOYAxXgHjQIHTl_JSAQ8NMDegQIUxAW
+        - navigation
+    - contentinfo [ref=f4e1722]:
+      - heading "Footer Links" [level=1] [ref=f4e1723]
+      - generic [ref=f4e1727]:
+        - generic [ref=f4e1731]:
+          - button "95110, San Jose, CA - Based on your past activity" [ref=f4e1733] [cursor=pointer]:
+            - generic [ref=f4e1734]: 95110, San Jose, CA
+            - generic [ref=f4e1736]:
+              - text: "-"
+              - generic [ref=f4e1737]: Based on your past activity
+          - text: "-"
+          - button "Update location" [ref=f4e1739] [cursor=pointer]
+        - generic [ref=f4e1742]:
+          - link "Help" [ref=f4e1743] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - button "Send feedback" [ref=f4e1745] [cursor=pointer]
+          - link "Privacy" [ref=f4e1747] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f4e1748] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

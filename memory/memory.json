@@ -1,0 +1,13 @@
+{
+    "type": "entity",
+    "name": "Rudy",
+    "entityType": "person",
+    "observations": [
+        "User's name is Rudy.",
+        "Rudy is an LLM engineer.",
+        "Rudy is teaching a course about AI Agents.",
+        "Rudy's course includes the MCP protocol.",
+        "Rudy describes MCP as a protocol for connecting agents with tools, resources, and prompt templates.",
+        "Rudy says MCP makes it easy to integrate AI agents with capabilities."
+    ]
+}
